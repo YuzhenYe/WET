@@ -8,11 +8,12 @@
   1) Learning the basics of C++ (no class & objects)
   2) Learning some basic data structure & algorithms
   3) Starting to use http://www.usaco.org 
+  4) If kids get bored, we may try to incorporate some arduino projects; great for introducing the concepts of inputs (not just text files, and be inputs from the sensors), hardware/software interaction, and loops.
 
 # Main resources
   1) C++ online tutorial: http://www.cplusplus.com/doc/tutorial/
   2) USA Computing Olympiad website: http://www.usaco.org
-# Format -- weekly meetings, in-meeting exercises & take-home exercises
+# Format -- weekly meetings, in-meeting exercises, take-home exercises, and perhaps arduino projects
 # No fancy IDE, vim instead
 
 # Brief schedules
