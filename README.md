@@ -1,14 +1,14 @@
-# Resouces for WET gangs
+# Resouces for WET gang
 
 # Before start
   1) A Mac with xcode installed (to check: open terminal, and type g++)
   2) An account on github.com (all codes will go alive on github)
 
 # Goals: 
-  1) Learning the basics of C++ (no class & objects)
-  2) Learning some basic data structure & algorithms
+  1) Learning the basics of C++ (NO class & objects)
+  2) Learning some basic data structures & algorithms 
   3) Starting to use http://www.usaco.org 
-  4) If kids get bored, we may try to incorporate some arduino projects; great for introducing the concepts of inputs (not just text files, and be inputs from the sensors), hardware/software interaction, and loops.
+  4) If kids get bored, we may try to use some arduino projects; great for introducing the concepts of inputs (not just text files, can be inputs from the sensors), hardware/software interaction, and loops.
 
 # Main resources
   1) C++ online tutorial: http://www.cplusplus.com/doc/tutorial/
