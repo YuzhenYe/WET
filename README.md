@@ -23,5 +23,6 @@ Weeks 1-2.
    3) Get to know git (git clone; git add; git commit; git push)
    4) Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/)(https://github.com/YuzhenYe/WET/blob/master/firstCodes)
    5) Compiler (g++; source codes vs executables) (http://www.cplusplus.com/doc/tutorial/introduction/)
+   6) Exercises: complete the three versions of the helloWorld, and one more version of your very unique way, push them to your github repository
 
 Week 3-4. 
