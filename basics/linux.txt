@@ -1,0 +1,29 @@
+Linux/Unix file systems:
+/Users/.../...
+
+Linux commands (no GUI/buttons/menus):
+
+Basic Linux Command
+
+pwd: where am I?
+
+ls: list the contents of a specified directory
+
+cd: jump to a specified directory
+
+mkdir: create a new directory given a specified path
+
+cp: copy files and directories
+
+mv: move files and directories
+
+chmod: modify the perssion of access to files and directories
+
+rm: remove files and directories
+
+exit: quit the current session
+
+help: command that returns with a linux command cheatsheet
+
+man: stands for "Manual", it returns detailed usage of a particular command, e.g. man cp
+

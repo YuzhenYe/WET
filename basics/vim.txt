@@ -1,0 +1,17 @@
+VI/VIM
+VIM (Vi IMproved) is one of the most commonly used and powerful editors these days. It is extensible and customizable and is useful for writing and editing programs in virtually any language.
+
+Quick start:
+
+Create a file for editing:  vim test.txt
+
+Start Insert mode:  type the "i" command
+
+Type some text that makes sense to you
+
+Back to Normal mode:  press <Esc>
+
+Save file and exit: type ":wq"
+
+Most confusing part of using vim: 
+    insert mode & normal mode (command mode)

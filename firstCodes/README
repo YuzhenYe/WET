@@ -1,0 +1,14 @@
+basic structure of a C++ code:
+
+Example:
+
+#include <iostream> //include header file
+int main () //main function, note the "int" declares that main() function returns an integer
+{
+  //a statement is a piece of instruction, ending with ; in C++
+  //a print statement; lines start with // are comments, ignored by the compiler
+  std::cout << "Hello World! "<<std::endl; //a print statement
+  std::cout << "I'm a C++ program"<<std::endl; //another print statement
+  //The return value for main should indicate how the program exited. Normal exit is generally represented by a 0 return value from main. Abnormal termination is usually signalled by a non-zero return but there is no standard for how non-zero codes are interpreted.
+  return(0);
+}
