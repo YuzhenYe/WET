@@ -13,6 +13,7 @@
 # Main resources
   1) C++ online tutorial: http://www.cplusplus.com/doc/tutorial/
   2) USA Computing Olympiad website: http://www.usaco.org
+  3) Open Data Structure in C++ (book: http://www.opendatastructures.org/ods-cpp.pdf) (code: https://github.com/patmorin/ods)
 # Format -- weekly meetings, in-meeting exercises, take-home exercises, and perhaps arduino projects
 # No fancy IDE, vim instead
 
