@@ -1,11 +1,5 @@
 # Resouces for WET gang
 
-# Goals: 
-  1) Learning the basics of C++ (NO class & objects)
-  2) Learning some basic data structures & algorithms 
-  3) Starting to use http://www.usaco.org 
-  4) If kids get bored, we may try to use some arduino projects; great for introducing the concepts of inputs (not just text files, can be inputs from the sensors), hardware/software interaction, and loops.
-
 # Main resources
   1) C++ online tutorial: http://www.cplusplus.com/doc/tutorial/
   2) USA Computing Olympiad website: http://www.usaco.org
@@ -40,4 +34,11 @@ Week 1.
    3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2.
+
+# Goals: 
+  1) Learning the basics of C++ (NO class & objects)
+  2) Learning some basic data structures & algorithms 
+  3) Starting to use http://www.usaco.org 
+  4) If kids get bored, we may try to use some arduino projects; great for introducing the concepts of inputs (not just text files, can be inputs from the sensors), hardware/software interaction, and loops.
+
 
