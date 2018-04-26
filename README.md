@@ -13,8 +13,6 @@
   4) Game Programming in C++ (http://www.jblearning.com/catalog/9781598220322/)
 
 # Weekly topics/assignments
-
-# Brief schedules
 Week 1. 
   Topics:
    1) Get to know some basic command lines (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
