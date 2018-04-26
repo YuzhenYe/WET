@@ -39,7 +39,7 @@ Week 1.
    For all coding exercises, you need to use vim to write the code, and then compile and test your program before you push it to github
    1) ProudProgrammer.cpp:  this program prints "I am a C++ programmer".
    2) ProudProgrammerX10.cpp: this program prints 10 lines of "I am a C++ programmer".
-   3) [Challenge] Numers.cpp: write a program that display integers from 1 to 100, one number per line.
+   3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2.
 
