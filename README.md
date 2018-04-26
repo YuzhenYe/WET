@@ -18,13 +18,4 @@
 # Format -- weekly meetings, in-meeting exercises, take-home exercises, and perhaps arduino projects
 # No fancy IDE, vim instead
 
-# Brief schedules
-Weeks 1-2. 
-   1) Get to know some basic command lines (cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
-   2) Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
-   3) Get to know git (git clone; git add; git commit; git push)
-   4) Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/)(https://github.com/YuzhenYe/WET/blob/master/firstCodes)
-   5) Compiler (g++; source codes vs executables) (http://www.cplusplus.com/doc/tutorial/introduction/)
-   6) Exercises: complete the three versions of the helloWorld, and one more version of your very unique way, push them to your github repository
-
-Week 3-4. 
+# see schedule: schedule.txt for weekly topics/assignments
