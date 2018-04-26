@@ -9,7 +9,7 @@
 # Weekly topics/assignments
 Week 1. 
   Topics:
-   1) Get to know some basic command lines (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
+   1) Get to know some basic liux commands (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
    2) Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
    3) Get to know git (git clone; git add; git commit; git push) ((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
    4) Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/)(https://github.com/YuzhenYe/WET/blob/master/firstCodes)
@@ -23,7 +23,7 @@ Week 1.
       Usage: g++ -o executable-file-name source-code
       Example: g++ -o HelloWorld HelloWorld.cpp
    6) Exercises: complete different versions of the helloWorld, push them to your github repository
-   7) [Surprise] use for loops
+   7) [Surprise] for loops
       for(int i = 0; i < 10; i ++) 
           cout<<"Hello World"<<endl;
 
@@ -34,6 +34,11 @@ Week 1.
    3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2.
+   1) use variables
+   2) basic data types
+   3) more on loops
+   4) read from/write to file
+   5) ...
 
 # Goals: 
   1) Learning the basics of C++ (NO class & objects)
