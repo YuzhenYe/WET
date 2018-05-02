@@ -36,7 +36,7 @@ Week 1 (04/25/2018).
 Week 2 (05/02/2018).
   Topics:
    0) review vim, g++, basic structure of a C++ program, and git
-   1) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variables.txt)
+   1) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt)
    2) basic data types & strings
    3) more on loops
    4) branching structures (if-else, if-else if-else) (see HelloWorld3.cpp)
