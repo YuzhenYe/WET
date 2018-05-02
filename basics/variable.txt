@@ -1,0 +1,65 @@
+We have seen:
+for(int i = 0; i < 10; i ++)  //here i is a variable, and it is an integer
+   cout<<i<<endl;
+
+1) What's a variable
+A variable is a portion of memory to store a value; 
+You may consider a variable as a symbol that stores a value so you can refer to the symbol name to access the value.
+It means that you don't need to know the exact location where a variable is stored; just refer to the name.
+
+Example:
+int i = 10; //a variable called i is declared, and the assignment statement assigns 10 to i
+cout<<" i is "<<i<<endl; //now we can access 10 by referring to i 
+
+There are three different ways to initialize variables:
+int i = 10; //c-like initialization
+int i(10); //same as i = 10; constructor initialization
+int i{10}; //uniform initialization
+
+Assignment operator (=) is just one of the operators that programmers use to work with variables.
+Here are more: 
+  arithmetric operators (+, -, *, /, %)
+  compound assignment (+=, -=, *=, /=, %=)
+        a += 1 is the same as a = a + 1 
+  increment and decrement (++, --)
+  rational and comparison operators (==, !=, >, <, >=, <=)
+  logical operators (!, &&, ||)
+  conditional ternary operator (?): condition? result1 : result2
+       c = a > b ? a : b;
+
+2) How to name your variables
+As a programmer, you are responsible for giving your variables nice names. 
+Some rules for naming your variables: 
+  -- Use one or more letters, digits, or underscore characters (_). 
+  -- Spaces, punctuation marks, and symbols cannot be part of a name. 
+  -- Names shall always begin with a letter. 
+  -- Don't use reserved keywords (such as int, float)
+Which of the following are legal names?
+   123name, book1, num1, money, book_name, bookName, int
+
+3) Basic types (character, numerical integer for whole number, floating-point type for real value)
+ char (one byte; at least 8 bits)
+ int (at least 16 bits)
+ long int (at least 32 bits)                 
+ signed int
+ unsigned int
+ float (single precision, 23 bits of significand, 8 bits of exponent, and 1 sign bit)
+ double (52 bits of significand, 11 bits of exponent, and 1 sign bit)
+ void (no storage)
+ bool (boolean type)
+
+ bits and bytes: 
+   one bit, 0/1
+   one byte: 8 bits
+
+ write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent!
+
+4) Compound types: string (we will talk more later)
+   Example:
+   string mymessage = "Hello World";
+   cout << mymessage << endl;
+
+5) Scope  
+Named entities including variables and functions need to be declared before being used in C++. 
+The point in the program where this declaration happens influences its visibility.
+

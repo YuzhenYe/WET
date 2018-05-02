@@ -34,11 +34,16 @@ Week 1.
    3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2.
-   1) use variables
-   2) basic data types
+   0) review vim, g++, basic structure of a C++ program, and git
+   1) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variables.txt)
+   2) basic data types & strings
    3) more on loops
-   4) read from/write to file
-   5) ...
+   4) branching structures (if-else, if-else if-else) (see HelloWorld3.cpp)
+   5) coding exercises: 
+      NumberPlay.cpp -- in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
+      BitsBytes.cpp -- write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (use a loop to compute 2^n)! 
+
+  Take-home exercises:
 
 # Goals: 
   1) Learning the basics of C++ (NO class & objects)
