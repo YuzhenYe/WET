@@ -7,7 +7,7 @@
   4) Game Programming in C++ (http://www.jblearning.com/catalog/9781598220322/)
 
 # Weekly topics/assignments
-Week 1. 
+Week 1 (04/25/2018). 
   Topics:
    1) Get to know some basic liux commands (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
    2) Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
@@ -33,7 +33,7 @@ Week 1.
    2) ProudProgrammerX10.cpp: this program prints 10 lines of "I am a C++ programmer".
    3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
-Week 2.
+Week 2 (05/02/2018).
    0) review vim, g++, basic structure of a C++ program, and git
    1) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variables.txt)
    2) basic data types & strings
