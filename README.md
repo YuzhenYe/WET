@@ -34,6 +34,7 @@ Week 1 (04/25/2018).
    3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2 (05/02/2018).
+  Topics:
    0) review vim, g++, basic structure of a C++ program, and git
    1) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variables.txt)
    2) basic data types & strings
