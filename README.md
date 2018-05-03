@@ -38,7 +38,7 @@ For all coding exercises, you need to use vim to write the code, and then compil
 	int a = 10; //this statement declares an integer a, and initializes it to 10
 ```
 - basic data types: int and string
-- branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
+- branching structures (if-else) (see [EvenOdd.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/EvenOdd.cpp) -- the program checks if a number is odd or even).
 ```
       //Syntax:
       if(expression) {
