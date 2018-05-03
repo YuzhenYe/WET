@@ -47,13 +47,15 @@ Week 2 (05/02/2018).
       }
 </pre>
    5) coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
+
   Take-home exercises:
     1) CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to https://github.com/YuzhenYe/WET/firstCodes/VarFun.cpp (which involves a very simple function, summation, c = a + b) or your own version of VarFun.cpp. 
     2) CourseGrade.cpp -- the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer https://github.com/YuzhenYe/WET/firstCodes/HelloYou.cpp about getting user's inputs. Briefly, this is how you do: 
-       
+<pre>    
        int score;
        cout << "Please type a score: " << endl; //this is to tell the user to type in a score 
        cin >> score; //using cin to assign what the user types in to variable score 
+</pre>
 
 Week 3 (next week -- 05/09/2018)
   Topics
