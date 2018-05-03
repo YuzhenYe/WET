@@ -56,9 +56,9 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - CourseGrade.cpp, the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". Use a if-else branching structure. You can refer [HelloYou.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloYou.cpp) about getting user's inputs. Briefly, this is how you do: 
 
 ``` 
-	int score;
-	cout << "Please type a score: " << endl; //display a prompt to tell the user to type in a score 
-	cin >> score; //using cin to assign what the user types in to variable score 
+	int score; //declare a variable
+	cout << "Please type a score: " << endl; //alert the user to type in a score 
+	cin >> score; //use cin to assign user's input to the variable
 ```
 - [Challenge] AddFunc.cpp, your program asks the user to type in an integer, and adds numbers from 1, 2, 3, and so on all the way up to the number the user gives. For example, if the user types in 5, your program needs to report 15 (since 1 + 2 + 3 + 4 + 5 = 15). For this problem, you need to use for loop, although you can come up with other smarter ways to compute the answer without using the loop!
 
