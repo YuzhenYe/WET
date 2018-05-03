@@ -8,14 +8,15 @@
 ## Week 1 (04/25/2018). 
 - Get to know some basic liux commands (pwd, cd, ls, mkdir, rm); [see details](https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
 - Get to know vim; [see details](https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
-- Get to know git (git clone; git add; git commit; git push); [see details]((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
-- Hello World (main function) [see description](http://www.cplusplus.com/doc/tutorial/program_structure/); [see the code](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp)
-- Compiler (g++; source codes vs executables) [see the description](http://www.cplusplus.com/doc/tutorial/introduction/)
+- Get to know git (git clone; git add; git commit; git push); [see details](https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
+- Hello World (main function) [see a description](http://www.cplusplus.com/doc/tutorial/program_structure/); [see the code](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp)
+- Compiler (g++; source codes vs executables) [see details](http://www.cplusplus.com/doc/tutorial/introduction/)
 ```
       Usage: g++ -o executable-file-name source-code
       Example: g++ -o HelloWorld HelloWorld.cpp
+      How to run the program: simply call the name, ./HelloWorld (here ./ tells HelloWorld is in current folder)
 ```
-- Exercises: complete different versions of the helloWorld, push them to your github repository
+- Exercises: complete different versions of the HelloWorld, push them to your github repository
 - [Surprise] for loops
 ```
       for(int i = 0; i < 10; i ++) 
