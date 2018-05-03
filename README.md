@@ -37,14 +37,35 @@ Week 2 (05/02/2018).
   Topics:
    1) review vim, g++, basic structure of a C++ program, and git
    2) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt)
-   3) basic data types & strings
-   4) more on loops
-   5) branching structures (if-else, if-else if-else) (see HelloWorld3.cpp)
-   6) coding exercises: 
-      NumberPlay.cpp -- in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
-      BitsBytes.cpp -- write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (use a loop to compute 2^n)! 
-
+      what's a variable; naming a variable; int & string
+      example:
+	int a = 10; //this statement declares an integer a, and initializes it to 10
+   3) basic data types 
+	int, string
+   4) branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
+      Syntax:
+      if(expression) {
+	//statements -- these statements will be executed only if expression is true
+      }
+      else {
+	//statements -- these statements will be executed only if expression is false
+      }
+   5) coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
   Take-home exercises:
+    1) CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to https://github.com/YuzhenYe/WET/firstCodes/VarFun.cpp (which involves a very simple function, summation, c = a + b) or your own version of VarFun.cpp. 
+    2) CourseGrade.cpp -- the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer https://github.com/YuzhenYe/WET/firstCodes/HelloYou.cpp about getting user's inputs. Briefly, this is how you do: 
+       
+       int score;
+       cout << "Please type a score: " << endl; //this is to tell the user to type in a score 
+       cin >> score; //using cin to assign what the user types in to variable score 
+
+Week 3 (next week -- 05/09/2018)
+  Topics
+   1) Different ways to get user's inputs (data): argv, cin, and reading from a file!
+   2) Arrays
+   3) coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (use a loop to compute 2^n)! 
+   4) coding practice: NumArrayPlay.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out the maximum number in the array. 
+
 
 # Goals: 
   1) Learning the basics of C++ (NO class & objects)
