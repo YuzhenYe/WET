@@ -12,13 +12,7 @@ Week 1 (04/25/2018).
    1) Get to know some basic liux commands (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
    2) Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
    3) Get to know git (git clone; git add; git commit; git push) ((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
-   4) Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/)(https://github.com/YuzhenYe/WET/blob/master/firstCodes)
-      #include <iostream>
-      int main() 
-      { 
-          #statements go here
-          return(0);
-      }
+   4) Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/); see an example https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp
    5) Compiler (g++; source codes vs executables) (http://www.cplusplus.com/doc/tutorial/introduction/)
       Usage: g++ -o executable-file-name source-code
       Example: g++ -o HelloWorld HelloWorld.cpp
@@ -44,12 +38,14 @@ Week 2 (05/02/2018).
 	int, string
    4) branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
       Syntax:
+<pre>
       if(expression) {
 	//statements -- these statements will be executed only if expression is true
       }
       else {
 	//statements -- these statements will be executed only if expression is false
       }
+</pre>
    5) coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
   Take-home exercises:
     1) CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to https://github.com/YuzhenYe/WET/firstCodes/VarFun.cpp (which involves a very simple function, summation, c = a + b) or your own version of VarFun.cpp. 
