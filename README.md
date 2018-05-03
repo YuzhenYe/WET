@@ -8,25 +8,26 @@
 
 # Weekly topics/assignments
 Week 1 (04/25/2018). 
-  Topics:
-   1) Get to know some basic liux commands (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
-   2) Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
-   3) Get to know git (git clone; git add; git commit; git push) ((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
-   4) Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/); see an example https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp
-   5) Compiler (g++; source codes vs executables) (http://www.cplusplus.com/doc/tutorial/introduction/)
+- Get to know some basic liux commands (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
+- Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
+- Get to know git (git clone; git add; git commit; git push) ((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
+- Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/); see an example https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp
+- Compiler (g++; source codes vs executables) (http://www.cplusplus.com/doc/tutorial/introduction/)
+```
       Usage: g++ -o executable-file-name source-code
       Example: g++ -o HelloWorld HelloWorld.cpp
-   6) Exercises: complete different versions of the helloWorld, push them to your github repository
-   7) [Surprise] for loops
+```
+- Exercises: complete different versions of the helloWorld, push them to your github repository
+- [Surprise] for loops
 ```
       for(int i = 0; i < 10; i ++) 
           cout<<"Hello World"<<endl;
 ```
-  :panda_face: Take-home exercises:
-   For all coding exercises, you need to use vim to write the code, and then compile and test your program before you push it to github
-   1) ProudProgrammer.cpp:  this program prints "I am a C++ programmer".
-   2) ProudProgrammerX10.cpp: this program prints 10 lines of "I am a C++ programmer".
-   3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
+:panda_face: Take-home exercises:
+For all coding exercises, you need to use vim to write the code, and then compile and test your program before you push it to github
+- ProudProgrammer.cpp:  this program prints "I am a C++ programmer".
+- ProudProgrammerX10.cpp: this program prints 10 lines of "I am a C++ programmer".
+- [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2 (05/02/2018).
 - review vim, g++, basic structure of a C++ program, and git
@@ -60,11 +61,10 @@ cin >> score; //using cin to assign what the user types in to variable score
 ```
 
 Week 3 (next week -- 05/09/2018)
-  Topics
-   1) Different ways to get user's inputs (data): argv, cin, and reading from a file!
-   2) Arrays
-   3) coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (use a loop to compute 2^n)! 
-   4) coding practice: NumArrayPlay.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out the maximum number in the array. 
+- Different ways to get user's inputs (data): argv, cin, and reading from a file!
+- Arrays
+- coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (use a loop to compute 2^n)! 
+- coding practice: NumArrayPlay.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out the maximum number in the array. 
 
 
 # Goals: 
