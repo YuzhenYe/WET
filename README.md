@@ -1,10 +1,8 @@
 # Resouces for WET gang
 
 # Main resources
-  1) C++ online tutorial: http://www.cplusplus.com/doc/tutorial/
-  2) USA Computing Olympiad website: http://www.usaco.org
-  3) Rosalind (http://rosalind.info/problems/locations/)
-  4) Game Programming in C++ (http://www.jblearning.com/catalog/9781598220322/)
+  1) [C++ online tutorial](http://www.cplusplus.com/doc/tutorial/); [Game Programming in C++](http://www.jblearning.com/catalog/9781598220322/)
+  2) [USA Computing Olympiad website](http://www.usaco.org); [Rosalind](http://rosalind.info/problems/locations/)
 
 # Weekly topics/assignments
 ## Week 1 (04/25/2018). 
