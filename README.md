@@ -31,6 +31,7 @@ For all coding exercises, you need to use vim to write the code, and then compil
 
 Week 2 (05/02/2018).
 - review vim, g++, basic structure of a C++ program, and git
+- quiz: SkipNumber.cpp (the program prints 1, 3, 5, ... 1111)
 - use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
       what's a variable; naming a variable; 
 ```
