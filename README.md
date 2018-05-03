@@ -30,10 +30,11 @@ Week 1 (04/25/2018).
 Week 2 (05/02/2018).
   Topics:
    1) review vim, g++, basic structure of a C++ program, and git
-   2) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt)
+   2) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
       what's a variable; naming a variable; int & string
-      example:
+<pre>
 	int a = 10; //this statement declares an integer a, and initializes it to 10
+</pre>
    3) basic data types 
 	int, string
    4) branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
@@ -49,7 +50,9 @@ Week 2 (05/02/2018).
    5) coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
 
   Take-home exercises:
+
     1) CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to https://github.com/YuzhenYe/WET/firstCodes/VarFun.cpp (which involves a very simple function, summation, c = a + b) or your own version of VarFun.cpp. 
+
     2) CourseGrade.cpp -- the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer https://github.com/YuzhenYe/WET/firstCodes/HelloYou.cpp about getting user's inputs. Briefly, this is how you do: 
 <pre>    
        int score;
