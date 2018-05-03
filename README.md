@@ -6,11 +6,11 @@
 
 # Weekly topics/assignments
 ## Week 1 (04/25/2018). 
-- Get to know some basic liux commands (pwd, cd, ls, mkdir, rm) (https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
-- Get to know vim (https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
-- Get to know git (git clone; git add; git commit; git push) ((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
-- Hello World (main function) (http://www.cplusplus.com/doc/tutorial/program_structure/); see an example https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp
-- Compiler (g++; source codes vs executables) (http://www.cplusplus.com/doc/tutorial/introduction/)
+- Get to know some basic liux commands (pwd, cd, ls, mkdir, rm); [see details](https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
+- Get to know vim; [see details](https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
+- Get to know git (git clone; git add; git commit; git push); [see details]((https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
+- Hello World (main function) [see description](http://www.cplusplus.com/doc/tutorial/program_structure/); [see the code](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp)
+- Compiler (g++; source codes vs executables) [see the description](http://www.cplusplus.com/doc/tutorial/introduction/)
 ```
       Usage: g++ -o executable-file-name source-code
       Example: g++ -o HelloWorld HelloWorld.cpp
@@ -30,7 +30,7 @@ For all coding exercises, you need to use vim to write the code, and then compil
 ## Week 2 (05/02/2018).
 - review vim, g++, basic structure of a C++ program, and git
 - quiz: SkipNumber.cpp (the program prints 1, 3, 5, ... 1111)
-- use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
+- use variables; [see the description](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
       what's a variable; naming a variable; 
 ```
 	int a = 10; //this statement declares an integer a, and initializes it to 10
