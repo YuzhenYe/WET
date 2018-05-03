@@ -22,24 +22,23 @@ Week 1 (04/25/2018).
       for(int i = 0; i < 10; i ++) 
           cout<<"Hello World"<<endl;
 ```
-  Take-home exercises:
+  :panda_face: Take-home exercises:
    For all coding exercises, you need to use vim to write the code, and then compile and test your program before you push it to github
    1) ProudProgrammer.cpp:  this program prints "I am a C++ programmer".
    2) ProudProgrammerX10.cpp: this program prints 10 lines of "I am a C++ programmer".
    3) [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
 
 Week 2 (05/02/2018).
-  Topics:
-   1) review vim, g++, basic structure of a C++ program, and git
-   2) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
+- review vim, g++, basic structure of a C++ program, and git
+- use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
       what's a variable; naming a variable; 
 ```
 	int a = 10; //this statement declares an integer a, and initializes it to 10
 ```
-   3) basic data types: int and string
-   4) branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
-      Syntax:
+- basic data types: int and string
+- branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
 ```
+      //Syntax:
       if(expression) {
 	//statements -- these statements will be executed only if expression is true
       }
@@ -47,16 +46,17 @@ Week 2 (05/02/2018).
 	//statements -- these statements will be executed only if expression is false
       }
 ```
-   5) coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
+- coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
 
-  :panda_face: Take-home exercises. Write up the code, compile and test!
-    1) CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to [VarFun.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/VarFun.cpp), which involves a very simple function (c = a + b), or your own version of VarFun.cpp. 
-    2) CourseGrade.cpp -- the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer [HelloYou.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloYou.cpp) about getting user's inputs. Briefly, this is how you do: 
+:panda_face: Take-home exercises. Write up the code, compile and test!
+
+- CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own function as crazy as possible, using the two variables, and display the result. You can refer to [VarFun.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/VarFun.cpp), which involves a very simple function (c = a + b).
+- CourseGrade.cpp, the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer [HelloYou.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloYou.cpp) about getting user's inputs. Briefly, this is how you do: 
 
 ``` 
-       int score;
-       cout << "Please type a score: " << endl; //this is to tell the user to type in a score 
-       cin >> score; //using cin to assign what the user types in to variable score 
+int score;
+cout << "Please type a score: " << endl; //display a prompt to tell the user to type in a score 
+cin >> score; //using cin to assign what the user types in to variable score 
 ```
 
 Week 3 (next week -- 05/09/2018)
