@@ -52,14 +52,15 @@ For all coding exercises, you need to use vim to write the code, and then compil
 
 :panda_face: Take-home exercises. Write up the code, compile and test!
 
-- CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own function as crazy as possible, using the two variables, and display the result. You can refer to [VarFun.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/VarFun.cpp), which involves a very simple function (c = a + b).
-- CourseGrade.cpp, the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer [HelloYou.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloYou.cpp) about getting user's inputs. Briefly, this is how you do: 
+- CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using the two variables, and display the result. You can refer to [this VarFun.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/VarFun.cpp) (or the one you wrote), which involves a very simple function (c = a + b).
+- CourseGrade.cpp, the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". Use a if-else branching structure. You can refer [HelloYou.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloYou.cpp) about getting user's inputs. Briefly, this is how you do: 
 
 ``` 
 int score;
 cout << "Please type a score: " << endl; //display a prompt to tell the user to type in a score 
 cin >> score; //using cin to assign what the user types in to variable score 
 ```
+- [Challenge] AddFunc.cpp, your program asks the user to type in an integer, and adds numbers from 1, 2, 3, and so on all the way up to the number the user gives. For example, if the user types in 5, your program needs to report 15 (since 1 + 2 + 3 + 4 + 5 = 15). For this problem, you need to use for loop, although you can come up with other smarter ways to compute the answer without using the loop!
 
 Week 3 (next week -- 05/09/2018)
 - Different ways to get user's inputs (data): argv, cin, and reading from a file!
