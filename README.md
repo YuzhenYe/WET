@@ -18,8 +18,10 @@ Week 1 (04/25/2018).
       Example: g++ -o HelloWorld HelloWorld.cpp
    6) Exercises: complete different versions of the helloWorld, push them to your github repository
    7) [Surprise] for loops
+<pre>
       for(int i = 0; i < 10; i ++) 
           cout<<"Hello World"<<endl;
+</pre>
 
   Take-home exercises:
    For all coding exercises, you need to use vim to write the code, and then compile and test your program before you push it to github
@@ -31,12 +33,11 @@ Week 2 (05/02/2018).
   Topics:
    1) review vim, g++, basic structure of a C++ program, and git
    2) use variables (https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt);
-      what's a variable; naming a variable; int & string
+      what's a variable; naming a variable; 
 <pre>
 	int a = 10; //this statement declares an integer a, and initializes it to 10
 </pre>
-   3) basic data types 
-	int, string
+   3) basic data types: int and string
    4) branching structures (if-else) (see https://github.com/YuzhenYe/WET/firstCodes/EvenOdd.cpp -- the program checks if a number is odd or even).
       Syntax:
 <pre>
@@ -50,10 +51,9 @@ Week 2 (05/02/2018).
    5) coding practice: VarFun.cpp, in this program, you need to declare two integers and do something with them, and display the result (e.g., num1^2 + num2)
 
   Take-home exercises:
+    1. CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to https://github.com/YuzhenYe/WET/firstCodes/VarFun.cpp (which involves a very simple function, summation, c = a + b) or your own version of VarFun.cpp. 
+    2. CourseGrade.cpp -- the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer https://github.com/YuzhenYe/WET/firstCodes/HelloYou.cpp about getting user's inputs. Briefly, this is how you do: 
 
-    1) CrazyFun.cpp, in this program, you need to declare two integers, give them proper names, and make up your own crazy function using two variables, and display the result. You can refer to https://github.com/YuzhenYe/WET/firstCodes/VarFun.cpp (which involves a very simple function, summation, c = a + b) or your own version of VarFun.cpp. 
-
-    2) CourseGrade.cpp -- the program asks user to type in a score (0-100) and displays "pass" if the score is greater than or equal to 60, otherwise display "fail". You can refer https://github.com/YuzhenYe/WET/firstCodes/HelloYou.cpp about getting user's inputs. Briefly, this is how you do: 
 <pre>    
        int score;
        cout << "Please type a score: " << endl; //this is to tell the user to type in a score 
