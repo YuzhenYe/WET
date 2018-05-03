@@ -14,7 +14,8 @@
 ```
       Usage: g++ -o executable-file-name source-code
       Example: g++ -o HelloWorld HelloWorld.cpp
-      How to run the program: simply call the name, ./HelloWorld (here ./ tells HelloWorld is in current folder)
+      How to run the program? simply call the name 
+      ./HelloWorld (here ./ tells HelloWorld is in current folder)
 ```
 - Exercises: complete different versions of the HelloWorld, push them to your github repository
 - [Surprise] for loops
