@@ -66,17 +66,19 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - Review: vim, compiler, git, basic structure, for loop, if-else branching structure, variable, cin
 - Quiz: 
 ```
+problem 1:
 int a = 10;
 a += 20;
 cout << a << endl;
-```
-```
+
+problem 2:
 int sum = 0;
 for(int i = 1; i < 10; i ++) 
 	sum += i; 
 cout << sum << endl;
-```
+
 CompareNum.cpp: this program asks users to input two numbers, and displays the larger one (using if-else structure).
+```
 - Put emojis in your README file [emoji cheat sheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) [a list](https://gist.github.com/rxaviers/7360908)
 - Coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (hint: use a loop to compute 2^n)! 
 - Introduce arrays [array.txt](https://github.com/YuzhenYe/WET/blob/master/basics/array.txt)
