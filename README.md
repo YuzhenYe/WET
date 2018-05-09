@@ -63,7 +63,7 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - [Challenge] AddFunc.cpp, your program asks the user to type in an integer, and adds numbers from 1, 2, 3, and so on all the way up to the number the user gives. For example, if the user types in 5, your program needs to report 15 (since 1 + 2 + 3 + 4 + 5 = 15). For this problem, you need to use for loop, although you can come up with other smarter ways to compute the answer without using the loop!
 
 ## Week 3 (05/09/2018)
-- Review: vim, compiler, git, basic structure, for loop, if-else branching structure, variable, cin
+- Review: vim, compiler, git, basic structure, [for loop](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), if-else branching structure, variable, cin
 - Quiz: 
 ```
 problem 1:
@@ -83,12 +83,16 @@ and displays the larger one (using if-else structure).
 ```
 - Put emojis in your README file [emoji cheat sheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c); [a list](https://gist.github.com/rxaviers/7360908)
 - Coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (hint: use a loop to compute 2^n)! 
-- Introduce arrays [array.txt](https://github.com/YuzhenYe/WET/blob/master/basics/array.txt)
+- Introduce arrays [array.txt](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
 - Coding practice: NumArraySum.cpp, write a program, in which you declare an array of 10 integers, and write a loop to compute the sum.
-- Coding practice: NumArrayMax.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out the largest value.
-- Introduce functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp)
+
+:panda_face: Take-home exercises. Write up the code, compile and test!
+- PosNeg.cpp, write a program that accepts a number from the user, and displays "positive" if the user types in a positive number; otherwise, display "nonpositive".
+- CountDown.cpp, the program asks the user to input a number, and counts down to 0. For example, if the user gives 10, the program prints 10, 9, 8, 7, ..., 0. 
+- [Challenge] NumArrayMax.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out the largest value.
 
 ## Week 4 (..)
+- Introduce functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp)
 - Introduce different ways to get user's inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)!
 
 
