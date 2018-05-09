@@ -83,7 +83,7 @@ and displays the larger one (using if-else structure).
 ```
 - Put emojis in your README file [emoji cheat sheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c); [a list](https://gist.github.com/rxaviers/7360908)
 - Coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (hint: use a loop to compute 2^n)! 
-- Introduce arrays [array.txt](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
+- Introduce arrays [array.md](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
 - Coding practice: NumArraySum.cpp, write a program, in which you declare an array of 10 integers, and write a loop to compute the sum.
 
 :panda_face: Take-home exercises. Write up the code, compile and test!

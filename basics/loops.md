@@ -1,13 +1,13 @@
 # Loops
 
 ## The for loop
-
+```
 for (initialization; condition; increase) {
 	//a single statement
 	//or a block of statements enclosed in curly braces
 }
-
-The for loop repeats statement while condition is true. But, in addition, the for loop provides specific locations to contain an initialization and an increase expression, executed before the loop begins the first time, and after each iteration, respectively. Therefore, it is especially useful to use counter variables as condition.
+```
+The for loop repeats statement while condition is true. But, in addition, the for loop provides specific locations to contain an initialization and an increase expression, executed before the loop begins the first time, and after each iteration, respectively. Therefore, it is especially useful to use **counter variables** as condition.
 
 It works in the following way:
 
