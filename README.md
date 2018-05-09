@@ -77,7 +77,8 @@ for(int i = 1; i < 10; i ++)
 	sum += i; 
 cout << sum << endl;
 
-CompareNum.cpp: this program asks users to input two numbers, and displays the larger one (using if-else structure).
+CompareNum.cpp: this program asks users to input two numbers, 
+and displays the larger one (using if-else structure).
 ```
 - Put emojis in your README file [emoji cheat sheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) [a list](https://gist.github.com/rxaviers/7360908)
 - Coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (hint: use a loop to compute 2^n)! 
@@ -87,7 +88,7 @@ CompareNum.cpp: this program asks users to input two numbers, and displays the l
 - Introduce functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp)
 
 ##Week 4 (..)
-- Introduce different ways to get user's inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.txt) [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)!
+- Introduce different ways to get user's inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)!
 
 
 # Goals: 
