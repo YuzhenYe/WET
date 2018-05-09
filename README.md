@@ -77,6 +77,7 @@ for(int i = 1; i < 10; i ++)
 	sum += i; 
 cout << sum << endl;
 
+problem 3.
 CompareNum.cpp: this program asks users to input two numbers, 
 and displays the larger one (using if-else structure).
 ```
