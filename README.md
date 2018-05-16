@@ -7,7 +7,7 @@
 # Weekly topics/assignments
 ## Week 1 (04/25/2018). 
 - Get to know some basic liux commands (pwd, cd, ls, mkdir, rm); [see details](https://github.com/YuzhenYe/WET/blob/master/basics/linux.txt)
-- Get to know vim; [see details](https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)
+- Get to know vim; [see details](https://github.com/YuzhenYe/WET/blob/master/basics/vim.md)
 - Get to know git (git clone; git add; git commit; git push); [see details](https://github.com/YuzhenYe/WET/blob/master/basics/git.txt)
 - Hello World (main function) [see a description](http://www.cplusplus.com/doc/tutorial/program_structure/); [see the code](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp)
 - Compiler (g++; source codes vs executables) [see details](http://www.cplusplus.com/doc/tutorial/introduction/)
@@ -99,9 +99,10 @@ Q1:
 int a[15] = {4, 3, 5, 1, 2, 3, 67, 18, 19, 19, 21, 21, 34, 35};
 what's the largest index for a? and what's a[4]?
 Q2: 
-MinMax.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out and display the smallest and largest values.
+MinMax.cpp, write a program, in which you declare an array of 10 integers, 
+and write a loop to find and display the smallest and largest values.
 ```
-- More on [vim](https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)  (delete a line, paste a line, delete more than one character, replace, move to a line, go to front/end) 
+- More on [vim](https://github.com/YuzhenYe/WET/blob/master/basics/vim.md)  (delete a line, paste a line, delete more than one character, replace, move to a line, go to front/end) 
 - More on branching structure: if-else if-else
 - More on types (char & float/double) [CharDemo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/CharDemo.cpp) [DnaDemo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaDemo.cpp)
 - Introduce functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp)
