@@ -91,8 +91,23 @@ and displays the larger one (using if-else structure).
 - CountDown.cpp, the program asks the user to input a number, and counts down to 0. For example, if the user gives 10, the program prints 10, 9, 8, 7, ..., 0. 
 - [Challenge] NumArrayMax.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out the largest value.
 
-## Week 4 (..)
+## Week 4 (May 16, 2018)
+- Review: variables & [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md) & [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md)
+- Quiz: 
+```
+Q1:
+int a[15] = {4, 3, 5, 1, 2, 3, 67, 18, 19, 19, 21, 21, 34, 35};
+what's the largest index for a? and what's a[4]?
+Q2: 
+MinMax.cpp, write a program, in which you declare an array of 10 integers, and write a loop to find out and display the smallest and largest values.
+```
+- More on [vim](https://github.com/YuzhenYe/WET/blob/master/basics/vim.txt)  (delete a line, paste a line, delete more than one character, replace, move to a line, go to front/end) 
+- More on branching structure: if-else if-else
+- More on types (char & float/double) [CharDemo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/CharDemo.cpp) [DnaDemo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaDemo.cpp)
 - Introduce functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp)
+- Coding practice: DnaChecker, a program that checks if a string is a valid DNA sequence or not
+
+## Week ? 
 - Introduce different ways to get user's inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)!
 
 
