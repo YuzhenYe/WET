@@ -1,8 +1,8 @@
 # Resouces for WET gang
-
-# Main resources
+## Main resources
   1) [C++ online tutorial](http://www.cplusplus.com/doc/tutorial/); [Game Programming in C++](http://www.jblearning.com/catalog/9781598220322/)
   2) [USA Computing Olympiad website](http://www.usaco.org); [Rosalind](http://rosalind.info/problems/locations/)
+## [Goals](https://github.com/YuzhenYe/WET/blob/master/assessments/goals.md))
 
 # Weekly topics/assignments
 ## Week 1 (04/25/2018). 
@@ -98,12 +98,3 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - Introduce continue, break, boolean, compound conditions (and, or, not); see [DnaChecker.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaChecker.cpp) and [DnaChecker2.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaChecker2.cpp)
 - Introduce nested loops [CharParamid.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/CharParamid.cpp) & [two dimensional arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
 - Coding practice: design and implement your own ASCII art master piece.
-
-
-# Goals: 
-  1) Learning the basics of C++ (NO class & objects)
-  2) Learning some basic data structures & algorithms 
-  3) Starting to use http://www.usaco.org 
-  4) If kids get bored, we may try to use some arduino projects; great for introducing the concepts of inputs (not just text files, can be inputs from the sensors), hardware/software interaction, and loops.
-
-
