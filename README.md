@@ -64,23 +64,7 @@ For all coding exercises, you need to use vim to write the code, and then compil
 
 ## Week 3 (05/09/2018)
 - Review: vim, compiler, git, basic structure, [for loop](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), if-else branching structure, variable, cin
-- Quiz: 
-```
-problem 1:
-int a = 10;
-a += 20;
-cout << a << endl;
-
-problem 2:
-int sum = 0;
-for(int i = 1; i < 10; i ++) 
-	sum += i; 
-cout << sum << endl;
-
-problem 3.
-CompareNum.cpp: this program asks users to input two numbers, 
-and displays the larger one (using if-else structure).
-```
+- [Quiz](https://github.com/YuzhenYe/WET/blob/master/assessments/quiz.md): 
 - Put emojis in your README file [emoji cheat sheet](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c); [a list](https://gist.github.com/rxaviers/7360908)
 - Coding practice: BitsBytes.cpp, write a program to find out how many distinct values a 16-bit unsigned integer would be able to represent (hint: use a loop to compute 2^n)! 
 - Introduce arrays: [description](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
@@ -93,15 +77,7 @@ and displays the larger one (using if-else structure).
 
 ## Week 4 (May 16, 2018)
 - Review: variables & [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md) & [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md)
-- Quiz: 
-```
-Q1:
-int a[15] = {4, 3, 5, 1, 2, 3, 67, 18, 19, 19, 21, 21, 34, 35};
-what's the largest index for a? and what's a[4]?
-Q2: 
-MinMax.cpp, write a program, in which you declare an array of 10 integers, 
-and write a loop to find and display the smallest and largest values.
-```
+- [Quiz](https://github.com/YuzhenYe/WET/blob/master/assessments/quiz.md): 
 - More on [vim](https://github.com/YuzhenYe/WET/blob/master/basics/vim.md)  (delete a line, paste a line, delete more than one character, replace, move to a line, go to front/end) 
 - More on branching structure: if-else if-else
 - More on types (char & float/double) [CharDemo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/CharDemo.cpp) [DnaDemo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaDemo.cpp)
@@ -117,32 +93,7 @@ and write a loop to find and display the smallest and largest values.
 
 ## Week 5 (May 22, 2018) 
 - Review: variables, types (int, string, char), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), and [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?)
-- Quiz:
-```
-Q1: 
-write a statement to declare an array of 5 integers, and assign their initial values; 
-write a statement to declare a string (or character sequence), which stores "hey, there".
-
-Q2:
-int guessMe(int n) 
-{
-	int a = 0;
-	for(int i = 1; i <= n; i ++) {
-		a += i;
-	}
-	return a;
-}
-int main()
-{
-	int b = guessMe(5);
-	int c = guessMe(10);
-}
-Using a sentence to describe what guessMe() does; b = ?; c = ?; and now type up the code.
-
-Q3: 
-The Hamming distance between "APPLE" and "ORANG" = ?
-The Hamming distance between "FISH" and "FISH" = ?
-```
+- [Quiz](https://github.com/YuzhenYe/WET/blob/master/assessments/quiz.md): 
 - Introduce different ways to get user's inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)!
 - Introduce continue, break, boolean, compound conditions (and, or, not); see [DnaChecker.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaChecker.cpp) and [DnaChecker2.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaChecker2.cpp)
 - Introduce nested loops [CharParamid.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/CharParamid.cpp) & [two dimensional arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
