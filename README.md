@@ -115,8 +115,33 @@ and write a loop to find and display the smallest and largest values.
  frequent one. BTW, each letter in a DNA sequence is a base, that's why we call this program FreqBase. In a few weeks, you will be able to write your program to load an entire genome from a text file, but for this assignment, you will declare a DNA sequence in your code, like what you have done in DnaChecker.
 - [Challenge] HammingDist.cpp. In CS, the Hamming distance between two strings of equal length is the number of positions at which the corresponding symbols are different. In other words, Hamming distance can be used to quantify the similarity of two strings. For example, given two sequences, "ABCDE", "ABCED", their Hamming distance is 2. In your HammingDist.cpp, you declare two strings, compute and display the Hamming distance between these strings. 
 
-## Week ? 
+## Week 5 (May 22, 2018( 
+- Review: variables, types (int, string, char), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), and [function](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we define functions?)
+- Quiz:
+```
+Q1:
+int guessMe(int n) 
+{
+	int a = 0;
+	for(int i = 1; i <= n; i ++) {
+		a += i;
+	}
+	return a;
+}
+int main()
+{
+	int b = guessMe(5);
+	int c = guessMe(10);
+}
+Using a sentence to describe what guessMe() does; b = ?; c = ?; and now type up the code.
+Q2: 
+The Hamming distance between "APPLE" and "ORANG" = ?
+The Hamming distance between "FISH" and "FISH" = ?
+```
 - Introduce different ways to get user's inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)!
+- Introduce continue, break, boolean, compound conditions (and, or, not); see [DnaChecker.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaChecker.cpp) and [DnaChecker2.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/DnaChecker2.cpp)
+- Introduce nested loops [CharParamid.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/CharParamid.cpp) & [two dimensional arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
+- Coding practice: design and implement your own ASCII art master piece.
 
 
 # Goals: 
