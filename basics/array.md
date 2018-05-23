@@ -31,7 +31,7 @@ for(int i = 0; i < 6; i ++)
 ```
 The for loop above iterates through the indices, starting at 0, and ending at 5. 
 
-# Multidimensional arrays
+## Multidimensional arrays
 Multidimensional arrays can be described as "arrays of arrays". A 2D-array is just like a table, with rows and columns. 
 For example,
 ```
@@ -44,4 +44,4 @@ for(int r = 0; r < 2; r ++) {
 	}
 }
 ```
-In the above code block, the first statement declares a table with two rows, and five columns, and the nested loops are used for assigning values to the table. Simiarly to 1D arrays, individual elements can be accessed using proper indices for 2D arrays. The difference is that For 2D arrays, two indices are needed, one for the first dimension (the row) and one for the second dimension (the column) (e.g., table1[0][0] is the .
+In the above code block, the first statement declares a table with two rows, and five columns, and the nested loops are used for assigning values to the table. Similarly to 1D arrays, individual elements can be accessed using proper index for 2D arrays. The difference is that For 2D arrays, two indices are needed for specifying an element, one for the first dimension (the row) and one for the second dimension (the column) (e.g., table1[0][0] is the very first number on the top left corner; what's the very last number on the bottom right corner?)

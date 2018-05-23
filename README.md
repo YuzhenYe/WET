@@ -119,7 +119,11 @@ and write a loop to find and display the smallest and largest values.
 - Review: variables, types (int, string, char), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), and [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?)
 - Quiz:
 ```
-Q1:
+Q1: 
+write a statement to declare an array of 5 integers, and assign their initial values; 
+write a statement to declare a string (or character sequence), which stores "hey, there".
+
+Q2:
 int guessMe(int n) 
 {
 	int a = 0;
@@ -134,7 +138,8 @@ int main()
 	int c = guessMe(10);
 }
 Using a sentence to describe what guessMe() does; b = ?; c = ?; and now type up the code.
-Q2: 
+
+Q3: 
 The Hamming distance between "APPLE" and "ORANG" = ?
 The Hamming distance between "FISH" and "FISH" = ?
 ```
