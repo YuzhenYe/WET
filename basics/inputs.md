@@ -14,10 +14,10 @@ int main(int argc, char *argv[])
 	//statements here
 }
 ```
-C++ divides the command line into items by breaking it 
+C++ divides the command line into items (strings) by breaking it 
 at whitespace (e.g. spaces). The items include the command name itself. The number of items, and the actual items 
 are passed to main() function as argc, and argv, respectively.
-The argv is a 2D array of characters, with argv[0] pointing to the program name, argv[1] pointing to the first argument, and so on.
+The argv is an array of strings, with argv[0] pointing to the program name, argv[1] pointing to the first argument, and so on.
 For example, assume you have an executable called MagicProg, and you run the program as
 MagicProg 10, then argc = 2, argv[0] = MagicProg, and argv[1] = 10.
 
