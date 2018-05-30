@@ -115,4 +115,5 @@ For all coding exercises, you need to use vim to write the code, and then compil
 
 ## Week 6 (Fri June 1, 2018)
 - Introduce nested loops [CharParamid.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/CharParamid.cpp) & [two dimensional arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
+- Introduce selection sort
 - Coding practice: design and implement your own ASCII art master piece.
