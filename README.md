@@ -108,8 +108,8 @@ For all coding exercises, you need to use vim to write the code, and then compil
 ## Week 6 (Wed May 30, 2018)
 - Review: variables, types (int, string, char, bool), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops/continue/break](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp), and argc/argv.
 - Quiz
-- [Arrays as parameters](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)) ([Demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/PrintArray.cpp))
-- Read from/write to a file ([Write demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/WriteDemo.cpp)) [Read demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/ReadDemo.cpp))
+- Arrays as parameters ([Read](https://github.com/YuzhenYe/WET/blob/master/basics/array.md) [Demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/PrintArray.cpp))
+- Read from/write to a file ([Write demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/WriteDemo.cpp) [Read demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/ReadDemo.cpp))
 - Coding practice: getMax() function
 - Coding practice: HammingDist, which reads strings from a file
 
