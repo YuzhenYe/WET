@@ -31,6 +31,23 @@ for(int i = 0; i < 6; i ++)
 ```
 The for loop above iterates through the indices, starting at 0, and ending at 5. 
 
+## Arrays as parameters
+In C++, it is not possible to pass the entire block of memory represented by an array to a function directly as an argument. But what can be passed instead is its address. 
+
+To accept an array as parameter for a function, the parameters can be declared as the array type, but with *empty brackets*, omitting the actual size of the array. For example:
+```
+int getSum(int nums[], int length) 
+{
+	//statements
+}
+int main()
+{
+	int a[5] = {23, 30, 10, 100, 36};
+	int result = getSum(a, 5);
+}
+
+```
+
 ## Multidimensional arrays
 Multidimensional arrays can be described as "arrays of arrays". A 2D-array is just like a table, with rows and columns. 
 For example,
