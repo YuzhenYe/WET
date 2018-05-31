@@ -110,8 +110,10 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - Quiz
 - Arrays as parameters ([Read](https://github.com/YuzhenYe/WET/blob/master/basics/array.md) [Demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/PrintArray.cpp))
 - Read from/write to a file ([Write demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/WriteDemo.cpp) [Read demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/ReadDemo.cpp))
-- Coding practice: getMax() function
-- Coding practice: HammingDist, which reads strings from a file
+- Coding practice: HammingDist2, which reads strings from a file, computes and displays the hamming distance between the strings. 
+:panda_face: Take-home exercises. Write up the code, compile and test!
+- ExpenseSum.cpp. Assume your parents ask you to track your family's expenses for each month. You write down all the expenses in a text file. For simplicity, you can assume that all expenses are in whole dollars (e.g., 2 for 2 dollars, and so on). Now you need to write a program that reads expenses from a file, computes and displays the total dollar amount. Make sure that your program gets the file name from command line (argv), since you want to be able to run your program on any given file containing the expenses. In addition, since you now know how to write a function and pass an array into the function as an argument, you need to write a function called getSum() in your code, which takes in an array of expenses, and returns the sum. Prepare two test files, one called April.txt, which lists all the expenses that occured in April, and another one called May.txt, listing all the expenses occured in May, of course. Test your program with these two inputs.
+- GCcontent.cpp. This program reads a DNA sequence from a given file (through command line), computes and displays the GC-content,i.e., the total number of Gs and Cs divided by the length of the DNA sequence. Why we care about GC-content? We know GC pair is bound by three hydrogen bonds, whereas AT pair only involves two. Because of this reason (and base pair stacking), DNA with low GC-content is less stable than DNA with high GC-content. You may test your program using this file of DNA sequence [dna.txt](https://github.com/YuzhenYe/WET/blob/master/basics/dna.txt).
 
 ## Week 6 (Fri June 1, 2018)
 - Introduce nested loops [CharParamid.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/CharParamid.cpp) & [two dimensional arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
