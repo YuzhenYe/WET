@@ -109,7 +109,7 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - Review: variables, types (int, string, char, bool), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops/continue/break](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp), and argc/argv.
 - Quiz
 - Arrays as parameters ([description](https://github.com/YuzhenYe/WET/blob/master/basics/array.md) | [Demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/PrintArray.cpp))
-- Read from/write to a file ([Write demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/WriteDemo.cpp) | [Read demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/ReadDemo.cpp))
+- Read from/write to a file ([description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md) | [Write demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/WriteDemo.cpp) | [Read demo](https://github.com/YuzhenYe/WET/blob/master/firstCodes/ReadDemo.cpp))
 - Coding practice: HammingDist2, which reads strings from a file, computes and displays the hamming distance between the strings. 
 
 :panda_face: Take-home exercises. Write up the code, compile and test!
@@ -117,6 +117,8 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - GCcontent.cpp. This program reads a DNA sequence from a given file (through command line), computes and displays the GC-content,i.e., the total number of Gs and Cs divided by the length of the DNA sequence. Why we care about GC-content? We know GC pair is bound by three hydrogen bonds, whereas AT pair only involves two. Because of this reason (and base pair stacking), DNA with low GC-content is less stable than DNA with high GC-content. You may test your program using this file of DNA sequence [dna.txt](https://github.com/YuzhenYe/WET/blob/master/basics/dna.txt).
 
 ## Week 6 (Fri June 1, 2018)
+- Introduce while loop (we have seen while loop in [ReadDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/ReadDemo.cpp))
 - Introduce nested loops [CharParamid.cpp](http://github.com/YuzhenYe/WET/blob/master/firstCodes/CharParamid.cpp) & [two dimensional arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
-- Introduce selection sort
 - Coding practice: design and implement your own ASCII art master piece.
+- Introduce selection sort (algorithm & pseudo code)([see Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/selection-sort-pseudocode))
+- Coding practice: implement selection sort

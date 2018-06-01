@@ -12,7 +12,9 @@ int main(int argc, char* argv[])
 	string line;
 	if(file.is_open()) {
 		while(getline(file, line)) {
-			cout<<line<<endl;
+			int a = atoi(line.c_str());
+			int b = stoi(line);
+			cout<<line<<" "<<a<<" "<<b<<" "<<endl;
 		}
 		file.close();
 	}

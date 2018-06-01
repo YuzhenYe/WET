@@ -1,13 +1,13 @@
-Different ways to get inputs (data).
+# Different ways to get inputs (data): cin, argv, and file
 
-- Ask the user to type in something
+## Ask the user to type in something
 ```
         int score; //declare a variable
         cout << "Please type a score: " << endl; //alert the user to type in a score, << is an insertion operator
         cin >> score; //use cin to assign user's input to the variable, >> is an extraction operator
 ```
 
-- Command line inputs (arguments). The command line inputs will be passed into the main() function. 
+## Command line inputs (arguments). The command line inputs will be passed into the main() function. 
 ```
 int main(int argc, char *argv[])
 {
@@ -21,7 +21,7 @@ The argv is an array of strings, with argv[0] pointing to the program name, argv
 For example, assume you have an executable called MagicProg, and you run the program as
 MagicProg 10, then argc = 2, argv[0] = MagicProg, and argv[1] = 10.
 
-- Read from a file: open file, read/write, close the file
+## Read from a file: open file, read/write, close the file
 ```
 //open file to read from
 ifstream file1(filename);
