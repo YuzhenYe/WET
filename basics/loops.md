@@ -23,3 +23,36 @@ for(int i = 0; i < 100; i ++) {
 	cout << i << endl;
 }
 ```
+
+### While loop
+```
+while(condition) { //iteration continues while the condition is true
+	//statements
+}
+```
+For example:
+```
+int i = 0;
+while(i < 100) {
+	cout<<i<<endl;
+	i ++;
+}
+```
+### Continue and break statements
+continue and break statements are often used in for/while loops. Continue is to skip an iteraction, whereas break is to terminate from the loop.
+```
+        int n = 10;
+        for(int i = 0; i < n; i ++) {
+                if(i == 2) continue;
+                cout<<i<<endl;
+        }
+```
+vs
+
+```
+        int n = 10;
+        for(int i = 0; i < n; i ++) {
+                if(i == 2) break;
+                cout<<i<<endl;
+        }
+```

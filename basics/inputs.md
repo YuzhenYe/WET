@@ -1,4 +1,4 @@
-# Different ways to get inputs (data): cin, argv, and file
+# Different ways to get inputs (data): cin, argv, and file (what to use on AIZU)
 
 ## Ask the user to type in something
 ```
@@ -48,13 +48,68 @@ while(getline(file, aline)) {
 }
 ```
 
-Some useful functions (for converting strings into numbers): atoi, stoi, stod
+## Some useful functions (for converting strings into numbers): atoi, stoi, stod
 ```
-//assume nums.txt has two lines, the first line is 20, and the second line is 10.3
-string aline;
-getline(file, aline);
-int a = atoi(aline.c_str());
-int b = stoi(aline);
-getline(file, aline);
-double c = stod(aline);
+//stoi -- string to integer, stod -- string to double
+string s1 = "123";
+string s2 = "123.5";
+int a = atoi(s1.c_str()); //c style
+int b = stoi(s1); //c++ style
+double c = stod(s2);
+
+//distinguish atoi/stoi and int
+int c = int(s1[0]); //s1[0] == '1'; c == 49
+string s1_0(1, s1[0]);
+int d = stoi(s1_0); //s1_0 == "1"; d == 1
+```
+
+## AIZU online judge (and other online judges)
+Example input 1 
+An integer x is given in a line.
+```
+int a;
+cin >> a;
+```
+Example input 2:
+Two integers a and b separated by a single space are given in a line.
+```
+int a, b;
+cin >> a >> b;
+```
+
+Example input 3:
+Input: 
+In the first line, the number of notices n is given. In the following n lines, a set of four integers b, f, r and v which represents ith notice is given in a line.
+Sample input
+```
+3
+1 1 3 8
+3 2 2 7
+4 3 8 1
+```
+Code
+```
+int n;
+cin >> n;
+for(int i = 0; i < n; i ++) {
+	int b, f, r, v;
+	cin >> b >> f >> r >> v;
+}
+```
+
+Example input 4:
+Input: The input has multiple lines, with one numbers in each line. The input ends with a line including single zero. Your program should not process for this terminal symbol.
+Input
+```
+123
+55
+1000
+0
+```
+Code
+```
+while(1) {
+	cin >> tmp;
+	if(tmp == "0") break;
+}
 ```

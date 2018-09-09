@@ -182,7 +182,22 @@ int d(a, i, b, j)
 ``` 
 Use recursion for this implementation (you will work on a different implemention without using recursion later).
 
-## Week 15 (Aug 19 - Aug 26)
+## Week 15 (Aug 19 - Aug 25)
 - :sunglasses: From this week, you will be working on a few problems just to review some of the topics that you have learned. 
 - Write a program called SumPowerTwo.cpp that computes and displays 1 + 2 + 4 + 8 + ... + n, where n is the 2 to the power of x (x is the parameter that the program needs to get from the user). Your program gets the value of x through the command line. For example, if you give your program an input of 1, your program displays 1 (2^0 = 1); for input of 4, your program displays 31 (since 1 + 2 + 4 + 8 + 16 = 31). Review topic: how to get users' inputs (data): argv, cin, and reading from a file [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
 - [Challenge] You now should know that DNAs are strings in the alphabet of A, T, C, and G. Write a program that displays ALL possible triplets of such letters (a triplet is called a codon in protein-coding regions in DNA sequences). An example of triplet is AAA. Call your program Triplets. 
+
+## Week 16 (Sep 9-Sep 15)
+- Review: variables, types (int, string, char), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
+- Write a program called Shrinks that "shrinks" an input string. For example, if a user types ./Shrinks Banana, your program prints
+```
+Banana
+Banan
+Bana
+Ban
+Ba
+B
+```
+- AIZU problem 1: ITP1_3_A:   Print Many Hello World
+- AIZU problem 2: ITP1_4_A:   A / B Problem
+- AIZU problem 3: ITP1_8_B:   Sum of Numbers
