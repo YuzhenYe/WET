@@ -64,7 +64,7 @@ int d = stoi(s1_0); //s1_0 == "1"; d == 1
 ```
 
 ## AIZU online judge (and other online judges)
-Example input 1 
+Example input 1:
 An integer x is given in a line.
 ```
 int a;
@@ -78,9 +78,7 @@ cin >> a >> b;
 ```
 
 Example input 3:
-Input: 
-In the first line, the number of notices n is given. In the following n lines, a set of four integers b, f, r and v which represents ith notice is given in a line.
-Sample input
+In the first line, the number of notices n is given. In the following n lines, a set of four integers b, f, r and v which represents ith notice is given in a line. For example,
 ```
 3
 1 1 3 8
@@ -98,8 +96,7 @@ for(int i = 0; i < n; i ++) {
 ```
 
 Example input 4:
-Input: The input has multiple lines, with one numbers in each line. The input ends with a line including single zero. Your program should not process for this terminal symbol.
-Input
+The input has multiple lines, with one numbers in each line. The input ends with a line including single zero. Your program should not process for this terminal symbol. For example,
 ```
 123
 55

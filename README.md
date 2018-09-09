@@ -188,7 +188,7 @@ Use recursion for this implementation (you will work on a different implemention
 - [Challenge] You now should know that DNAs are strings in the alphabet of A, T, C, and G. Write a program that displays ALL possible triplets of such letters (a triplet is called a codon in protein-coding regions in DNA sequences). An example of triplet is AAA. Call your program Triplets. 
 
 ## Week 16 (Sep 9-Sep 15)
-- Review: variables, types (int, string, char), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
+- Review: variables, types (int, string, char), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
 - Write a program called Shrinks that "shrinks" an input string. For example, if a user types ./Shrinks Banana, your program prints
 ```
 Banana
