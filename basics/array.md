@@ -31,6 +31,15 @@ for(int i = 0; i < 6; i ++)
 ```
 The for loop above iterates through the indices, starting at 0, and ending at 5. 
 
+## Arrays of character
+```
+char s1[] = "Hello";
+char s2[] = {'H', 'e', 'l', 'l', 'o', '\0'}; 
+string s3 = "Hello";
+for(int i = 0; i < s3.length(); i ++) {
+	cout<<s1[i]<<" "<<s2[i]<<" "<<s3[i]<<endl;
+}
+```	
 ## Arrays as parameters
 In C++, it is not possible to pass the entire block of memory represented by an array to a function directly as an argument. But what can be passed instead is its address. 
 
