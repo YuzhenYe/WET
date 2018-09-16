@@ -195,14 +195,7 @@ Use recursion for this implementation (you will work on a different implemention
 - AIZU problem 3: ITP1_8_B:   Sum of Numbers
 
 ## Week 17 (Sep 16-Sep 22)
-- Quiz: 
+- Quiz (three problems) 
 - Review: [variables](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt), types (int/boolean/double/float/char/string), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
-- Write a program called Shrinks that "shrinks" an input string. For example, if a user types ./Shrinks Banana, your program prints
-```
-Banana
-Banan
-Bana
-Ban
-Ba
-B
-- AIZU problems: ITP1_9_D (String: Transformation); ITP1_8_B (Sum of Numbers); and more
+- AIZU problems: ITP1_5_B (Print a Frame); ITP1_8_B (Sum of Numbers)
+- Homework assignments: complete two AIZU problems of your choice. 
