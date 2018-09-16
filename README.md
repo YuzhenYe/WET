@@ -189,11 +189,9 @@ Use recursion for this implementation (you will work on a different implemention
 
 ## Week 16 (Sep 9-Sep 15)
 - Review: [variables](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt), types (int/boolean/double/float/char/string), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
-```
 - AIZU problem 1: ITP1_3_A:   Print Many Hello World
 - AIZU problem 2: ITP1_4_A:   A / B Problem
 - AIZU problem 3: ITP1_8_B:   Sum of Numbers
-
 ## Week 17 (Sep 16-Sep 22)
 - Quiz (three problems) 
 - Review: [variables](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt), types (int/boolean/double/float/char/string), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
