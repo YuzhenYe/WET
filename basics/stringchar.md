@@ -16,10 +16,6 @@ int c = int(s1[0]); //s1[0] == '1'; c == 49
 string s1_0(1, s1[0]);
 int d = stoi(s1_0); //s1_0 == "1"; d == 1
 ```
-        int score; //declare a variable
-        cout << "Please type a score: " << endl; //alert the user to type in a score, << is an insertion operator
-        cin >> score; //use cin to assign user's input to the variable, >> is an extraction operator
-```
 
 ## ASCII codes for the characters
 ```
