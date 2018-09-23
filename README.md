@@ -205,4 +205,4 @@ Use recursion for this implementation (you will work on a different implemention
 - String & characters [[description](https://github.com/YuzhenYe/WET/blob/master/basics/stringchar.md)]
 - AIZU problems: Toggling cases (ITP1_8_A) & Finding a word (ITP1_9_A)
 - Sorting problem & algorithms (selection sort for this week)
-- AIZU problem: ALDS1_2_B (from this week, we will start to use the problems from the Intro to Algorithms and Data Structure)
+- Homework assignments: 1) Implement the print range program if you haven't done it (Quiz problem #2); 2) AIZU finding word problem (if you haven't done it); and 3) AIZU problem: ALDS1_2_B (selection sort). From this week, we will start to use the problems from the Intro to Algorithms and Data Structure)
