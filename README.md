@@ -201,8 +201,8 @@ Use recursion for this implementation (you will work on a different implemention
 ## Week 18 (Sep 23 - Sep 29)
 - Quiz (two problems)
 - Review: types (int/boolean/double/float/char/string), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
-- More about compiling [description](https://github.com/YuzhenYe/WET/blob/master/basics/compiler.md)] (C++ vs C++11)
-- String & characters [description](https://github.com/YuzhenYe/WET/blob/master/basics/stringchar.md)]
+- More about compiling [[description](https://github.com/YuzhenYe/WET/blob/master/basics/compiler.md)] (C++ vs C++11)
+- String & characters [[description](https://github.com/YuzhenYe/WET/blob/master/basics/stringchar.md)]
 - AIZU problems: Toggling cases (ITP1_8_A) & Finding a word (ITP1_9_A)
 - Sorting problem & algorithms (selection sort for this week)
 - AIZU problem: ALDS1_2_B (from this week, we will start to use the problems from the Intro to Algorithms and Data Structure)
