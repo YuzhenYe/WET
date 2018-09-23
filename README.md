@@ -197,3 +197,11 @@ Use recursion for this implementation (you will work on a different implemention
 - Review: [variables](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt), types (int/boolean/double/float/char/string), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), [functions](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp) (why we use functions?), and inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
 - AIZU problems: ITP1_5_B (Print a Frame); ITP1_8_B (Sum of Numbers)
 - Homework assignments: complete two AIZU problems of your choice. 
+
+## Week 18 (Sep 23 - Sep 29)
+- Quiz (two problems)
+- Review: types (int/boolean/double/float/char/string), [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
+- String & characters [[description](https://github.com/YuzhenYe/WET/blob/master/basics/stringchar.md);
+- AIZU problems: Toggling cases (ITP1_8_A) & Finding a word (ITP1_9_A)
+- Sorting problem & algorithms (selection sort for this week)
+- AIZU problem: ALDS1_2_B (from this week, we will start to use the problems from the Intro to Algorithms and Data Structure)
