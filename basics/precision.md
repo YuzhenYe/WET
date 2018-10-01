@@ -10,7 +10,7 @@ cout<<n<<endl;
 ```
 
 ## C style
-### need to include <cstdio>
+Need to include <cstdio>
 ```
 //print 6 digits after the decimal point
 printf("%.6f", n);
