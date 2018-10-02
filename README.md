@@ -209,6 +209,7 @@ Use recursion for this implementation (you will work on a different implemention
 
 ## Week 19 (Sep 30 - Oct 5)
 - Quiz (two problems)
+- Factorial calculation (with/without using recursion)
 - [Math operators](http://www.cplusplus.com/reference/cmath/) & [precision](https://github.com/YuzhenYe/WET/blob/master/basics/precision.md) ([<cmath>](http://www.cplusplus.com/reference/cmath/) & precision, e.g., cout.precision(17) for double)
 - AIZU problems: distance, standard deviation
 - Homework assignments: 1) AIZU problem standard deviation (if you haven't completed it); 2) AIZU problem: maximum profit; and 3) AIZU problem bubble sort (the maximum profit & bubble sort problems are in the Intro to Algorithms and Data Structure)
