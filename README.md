@@ -213,3 +213,11 @@ Use recursion for this implementation (you will work on a different implemention
 - [Math operators](http://www.cplusplus.com/reference/cmath/) & [precision](https://github.com/YuzhenYe/WET/blob/master/basics/precision.md) ([<cmath>](http://www.cplusplus.com/reference/cmath/) & precision, e.g., cout.precision(17) for double)
 - AIZU problems: distance, standard deviation
 - Homework assignments: 1) AIZU problem standard deviation (if you haven't completed it); 2) AIZU problem: maximum profit; and 3) AIZU problem bubble sort (the maximum profit & bubble sort problems are in the Intro to Algorithms and Data Structure)
+
+## Week 20 (Oct 7-Oct 13)
+- Quiz 
+- [Math operators](http://www.cplusplus.com/reference/cmath/) & [precision](https://github.com/YuzhenYe/WET/blob/master/basics/precision.md) (sqrt, pow functions)
+- AIZU problem: distance II
+- Recursion (a function that calls the function itself; factorial, fibonacci number)
+- Algorithms: instructions to solve a computational problem.
+- The maximum profit problem -- naive approach: about n^2 times of comparisons. Can you do better than this? 
