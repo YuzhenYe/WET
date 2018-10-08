@@ -221,3 +221,4 @@ Use recursion for this implementation (you will work on a different implemention
 - Recursion (a function that calls the function itself; factorial, fibonacci number)
 - Algorithms: instructions to solve a computational problem.
 - The maximum profit problem -- naive approach: about n^2 times of comparisons. Can you do better than this? 
+- Homework assignments: 1) AIZU maximum profit problem if you haven't completed it; 2) explain to your mom or dad why we say the maximum profit problem can be solved in linear time; 3) complete the AIZU distance II problem if you haven't done it; 4) create an account on USACO and make sure that you can login into it if you haven't done it; 5) [AIZU how many ways](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B); 6) [AIZU greatest common divisor problem](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_B) (you may want to review materials from week 9 for recursion).
