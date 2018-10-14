@@ -1,6 +1,6 @@
 # USACO
 
-## website[]
+## [website](http://www.usaco.org); [training site](http://train.usaco.org/usacogate)
 
 ## sample C++ code
 ```
