@@ -222,3 +222,11 @@ Use recursion for this implementation (you will work on a different implemention
 - Algorithms: instructions to solve a computational problem.
 - The maximum profit problem -- naive approach: about n^2 times of comparisons. Can you do better than this? 
 - Homework assignments: 1) AIZU maximum profit problem if you haven't completed it; 2) explain to your mom or dad why we say the maximum profit problem can be solved in linear time; 3) complete the AIZU distance II problem if you haven't done it; 4) create an account on USACO and make sure that you can login into it if you haven't done it; 5) [AIZU how many ways](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_B); 6) [AIZU greatest common divisor problem](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_B) (you may want to review materials from week 9 for recursion).
+
+
+## Week 21 (Oct 14 - 20)
+- Quiz
+- New topic: [dynamic allocation](https://github.com/YuzhenYe/WET/blob/master/basics/pointer.md)
+- New topic: [USACO](https://github.com/YuzhenYe/WET/blob/master/basics/usaco.md)
+- AIZU problem: [Prime Numbers](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_C) -- Try to use pointers
+- USACO warmup: hello world & ride
