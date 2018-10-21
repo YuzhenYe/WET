@@ -1,6 +1,6 @@
 # Resouces for WET gang
 ## Main resources
-  1) [C++ online tutorial](http://www.cplusplus.com/doc/tutorial/); [Game Programming in C++](http://www.jblearning.com/catalog/9781598220322/)
+  1) [C++ online tutorial](http://www.cplusplus.com/doc/tutorial/); [Game Programming in C++](http://www.jblearning.com/catalog/9781598220322/); [C++ STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
   2) [USA Computing Olympiad website](http://www.usaco.org); [Rosalind](http://rosalind.info/problems/locations/)
 ## [Goals](https://github.com/YuzhenYe/WET/blob/master/assessments/goals.md)
 
@@ -232,3 +232,24 @@ Use recursion for this implementation (you will work on a different implemention
 - USACO warmup: hello world 
 - Homework assignment 1) USACO problem: Your Ride Is Here. 
 - Homework assignment 2) AIZU problem: [Binary Search](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B) How binary search works? Assume you have an array of numbers sorted from the smallest to the largest (e.g., {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97}, which BTW, are all the primes smaller than 100). Given a query number (e.g., 67), how can you tell if this number is in the array for not? Obviously, you can search the array sequentially, starting at index 0, moving to the next index one at a time, until you find the slot which holds the same number as the query number, or you exhaust the array, reaching to the end of the array with no luck (in this case, the number is not found in the array). This approach is called sequential search, which doesn't seem to be the most efficient way for finding a number in a sorted array of numbers. Fortunately, you can try binary search. The idea is that you first look at the number in the middle of the array, if this number happens to be the same as the query number, you solve the problem! Otherwise, you just continue to look for the number in the left half of the array (when the number in the middle is greater than the query number), or the right half of the array (when the number in the middle is greater than the query number), not the entire array. How you find if the query number is in the left/right half of the array? You apply the same "binary" search idea, until you find the match, or the half becomes empty (no match). 
+
+
+## Week 22 (Oct 21 - 27)
+- Quiz
+- Write a program to display all divisors given an integer as input. E.g., input 6, the program displays 1x6 2x3
+- USACO problem: greedy gift givers
+```
+#the following code may not work for some cases
+#how: it didn't stop until it had read the last line of the file (gift1.in) twice. 
+#why:  streams/files in C and C++ don't predict when you have reached the end of the file, but the rather indicate if you have tried to read past the end of the file. 
+while(!fin.eof()) {
+ 	fin >> giver >> amount >> howmany; 
+	//....
+}
+#this problem can be fixed as following
+while(fin >> giver >> amount >> howmany) {
+	//....
+}
+```
+- Homework assignment 1) USACO problem: Friday the Thirteenth
+- Homework assignment 2) AIZU problem: [Coin change problem](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A)
