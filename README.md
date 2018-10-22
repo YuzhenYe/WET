@@ -251,5 +251,4 @@ while(fin >> giver >> amount >> howmany) {
 	//....
 }
 ```
-- Homework assignment 1) USACO problem: Friday the Thirteenth
-- Homework assignment 2) AIZU problem: [Coin change problem](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A)
+- Homework assignment: USACO problem, Friday the Thirteenth. Hints: use variables to track year, month, date and day; use variable names that are straightforward (e.g., year for "year"); reset month back to 1 when it reachs 13, date back to 1 when it reaches e.g., 31 for the month that only has 30 days; define and use a function that returns true (leap year) or false (otherwise) given a year as input; how to check if a year is century year? (use mod).
