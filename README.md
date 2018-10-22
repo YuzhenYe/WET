@@ -236,7 +236,7 @@ Use recursion for this implementation (you will work on a different implemention
 
 ## Week 22 (Oct 21 - 27)
 - Quiz
-- Write a program to display all divisors given an integer as input. E.g., input 6, the program displays 1x6 2x3
+- Write a program to display all divisors given an integer as the input. E.g., input 6, the program displays 1x6 2x3
 - USACO problem: greedy gift givers
 ```
 #the following code may not work for some cases
