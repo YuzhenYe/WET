@@ -252,3 +252,22 @@ while(fin >> giver >> amount >> howmany) {
 }
 ```
 - Homework assignment: USACO problem, Friday the Thirteenth. Hints: use variables to track year, month, date and day; use variable names that are straightforward (e.g., year for "year"); reset month back to 1 when it reachs 13, date back to 1 when it reaches e.g., 31 for the month that only has 30 days; define and use a function that returns true (leap year) or false (otherwise) given a year as input; how to check if a year is century year? (use mod).
+
+
+## Week 23 (Oct 28 - Nov 3)
+- New topic: [struct in C++](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md)
+- Exercise: implement scoreboard using a struct
+```
+sample input:
+3
+Tom
+Jerry
+Cat
+Tom 10
+Tom 2
+Jerry 3
+Cat 1
+output:
+Tom
+```
+- USACO Task (beads): broken necklace
