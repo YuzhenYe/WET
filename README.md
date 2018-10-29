@@ -256,9 +256,9 @@ while(fin >> giver >> amount >> howmany) {
 
 ## Week 23 (Oct 28 - Nov 3)
 - New topic: [struct in C++](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md)
-- Exercise: implement scoreboard using two arrays (scoreboard1.cpp) and a struct (scoreboard2.cpp)
+- Exercise: implement scoreboard using 1) two arrays (scoreboard1.cpp), and 2) a struct (scoreboard2.cpp)
 ```
-sample input:
+Sample input:
 3
 Tom
 Jerry
@@ -268,7 +268,7 @@ Tom 2
 Jerry 3
 Cat 1
 
-output:
+Output:
 Tom
 ```
-- USACO Task (beads): broken necklace
+- Homework assignment: USACO Task (beads), broken necklace
