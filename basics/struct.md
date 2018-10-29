@@ -19,7 +19,7 @@ for(int i = 0; i < np; i ++) {
 //whichslot is the slot index for "Jerry", and money[whichslot] tracks the money that "Jerry" has.
 money[whichslot] += 10;
 ```
-For this case, it makes perfect sense to use a function that loops up a person and returns the index
+For this case, it makes perfect sense to use a function that looks up a person and returns the index
 ```
 int lookup(int np, string *names, string name_to_look_up) 
 {
@@ -29,7 +29,7 @@ int lookup(int np, string *names, string name_to_look_up)
 	return -1; //not found
 }
 ```
-Then we can call the function to loop up a person, e.g., Jerry
+Then we can call the function to look up a person, e.g., Jerry
 ```
 int whichslot = lookup(np, names, "Jerry");
 ```
