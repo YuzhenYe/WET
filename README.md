@@ -272,3 +272,9 @@ Output:
 Tom
 ```
 - Homework assignment: USACO Task (beads), broken necklace
+
+## Week 24 (Nov 4 - Nov 10)
+- Review Friday the Thirteen problem and the Broken Necklace problem (wrap around -- duplicate).
+- New topic: Sorting (quick sort) [read](http://www.cplusplus.com/reference/cstdlib/qsort/); [review of struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md); using pointer (e.g., a -> score)
+- New topic: Complete search. 1) Complete search exploits the brute force, straight-forward, try-them-all method of finding the answer. 2) Complete search should almost always be the first algorithm/solution you consider. It is great if it works within the time and memory constraints; if not, think about more efficient approach. 3) In the case of a problem with only fewer than a couple million possibilities, iterate through each one of them, and see if the answer works.
+- USACO problem: Milking cows
