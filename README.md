@@ -284,3 +284,26 @@ Jerry 3
 Tom 12
 ```
 - Homework assignment: USACO problem: Milking cows
+
+## Week 25 (Nov 11 - Nov 17)
+- Review: Milking cows
+- Review: [Struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md).
+- Review: Define and use functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp)
+- Quick sort: qsort() in C and sort() in C++; see sample codes [scoreboard](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard.cpp); [scoreboard2](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard2.cpp)
+- AIZU problem: [Linear Search](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_A); [Binary Search](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B) 
+- How to represent a 2D pattern? 2D array of char, or 1D array of string; working with row and column. E.g., char board[MAXN][MAXN]; string *pattern = new string[n];
+- Exercise: write a program that reads a 2D pattern, rotates the pattern clockwise 90 degrees, and outputs the transformed pattern.
+```
+Sample input:
+3
+@-@
+---
+@@-
+```
+```
+Output:
+@-@
+@--
+--@
+```
+- Homework assignment: USACO problem: Transformation (hints: define functions for 90 rotation, 180 rotation, and etc, and for comparing two patterns) 
