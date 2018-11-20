@@ -307,3 +307,8 @@ Output:
 --@
 ```
 - Homework assignment: USACO problem: Transformation (hints: define functions for 90 rotation, 180 rotation, and etc, and for comparing two patterns) 
+
+## Week 26 (Nov 17-Nov 23)
+- Homework assignment: USACO problem: Name That Number. 
+- Hints: there are many different ways to solve this problem. One approach is to first consider all words of the same length as the input brand number as possible candidates, and then gradually exclude more words that don't meet the requirement. For example, given brand number 4734, only words of 4 letters are possible candidates; because the first number is 4, words that don't start with G, H or I cannot be the candidates. And then you check the second number, third number, and so on. The other trick that might be helpful is to treat the brand number as a string (so 4 is '4', and so on). Things to review: working with strings (e.g., string a = "ABC"); using indexing to access individual letters (e.g., a[0], which is 'A'); checking for a string's length using the length() function.
+- Can you think of a different approach that may also work? 
