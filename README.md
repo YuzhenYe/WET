@@ -316,19 +316,12 @@ Output:
 ## Week 27 (Nov 25-Dec 1)
 - Review: Name that Number. Approach 1:  examine each word in the dictionary to see if it maps to the digits of the number in question. Approach 2: given a number, generate all possible strings that encode to that number and look them up in the dictionary. For Approach 2, how would you look up a word in the dictionary? Which of the two approaches do you prefer? Why?
 - New topic: [switch statement](https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm). You don't have to use switch statement at all, as you can alway use if-else if-else statements. However when there are so many branching structures, it makes sense to use switch statement.
-- Exercise 1: gradereport, use the switch statement to write a program that takes an integer as input, and reports the letter grader according to following scheme:
-```
->=98 A+
->=93 A
->=90 A-
->=86 B+
->=83 B
->=80 B-
->=75 C+
+- Exercise 1: letter2score, use the switch statement to write a program that takes a letter as input, and reports the score range for the letter grade. For example, if the grade is 'A', your program prints >= 90
+>=90 A
+>=80 B
 >=70 C
->=65 C- 
->=50 D 
-<50 F
+>=60 D 
+<60 F
 ``` 
 - Exercise 2: check if a string is palindromic (e.g., "1", "121","1221", "ATTA", "AACAA" are palindromic, while "1234", "ATCG" aren't)
 - Exercise 3: represent an integer (in base 10) in a different base (e.g., 2, 12, 60)
