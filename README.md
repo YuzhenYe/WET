@@ -312,3 +312,23 @@ Output:
 - Homework assignment: USACO problem: Name That Number. 
 - Hints: there are many different ways to solve this problem. One approach is to first consider all words of the same length as the input brand number as possible candidates, and then gradually exclude more words that don't meet the requirement. For example, given brand number 4734, only words of 4 letters are possible candidates; because the first number is 4, words that don't start with G, H or I cannot be the candidates. And then you check the second number, third number, and so on. The other trick that might be helpful is to treat the brand number as a string (so 4 is '4', and so on). Things to review: working with strings (e.g., string a = "ABC"); using indexing to access individual letters (e.g., a[0], which is 'A'); checking for a string's length using the length() function.
 - Can you think of a different approach that may also work? 
+
+## Week 27 (Nov 25-Dec 1)
+- Review: Name that Number. Approach 1:  examine each word in the dictionary to see if it maps to the digits of the number in question. Approach 2: given a number, generate all possible strings that encode to that number and look them up in the dictionary. For Approach 2, how would you look up a word in the dictionary? Which of the two approaches do you prefer? Why?
+- New topic: [switch statement](https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm). You don't have to use switch statement at all, as you can alway use if-else if-else statements. However when there are so many branching structures, it makes sense to use switch statement.
+- Exercise 1: gradereport, use the switch statement to write a program that takes an integer as input, and reports the letter grader according to following scheme:
+```
+>=98 A+
+>=93 A
+>=90 A-
+>=86 B+
+>=83 B
+>=80 B-
+>=75 C+
+>=70 C
+>=65 C- 
+>=50 D 
+<50 F
+``` 
+- Exercise 2: check if a string is palindromic (e.g., "1", "121","1221", "ATTA", "AACAA" are palindromic, while "1234", "ATCG" aren't)
+- Exercise 3: represent an integer (in base 10) in a different base (e.g., 2, 12, 60)
