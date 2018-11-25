@@ -327,7 +327,9 @@ Output:
 - Exercise 2: check if a string is palindromic (e.g., "1", "121","1221", "ATTA", "AACAA" are palindromic, while "1234", "ATCG" aren't)
 - Exercise 3: represent an integer (in base 10) in a different base (e.g., 2, 12, 60). For example, 8 in base 10 is 1000 in base 2 (binary code). How you convert 18 (in base 10) to binary code? 
 ```
-First we figure out how many digits in the binary code (base 2) for number 18 (in base 10). For 18, the binary code has 5 digits (if we have four digits, we can encode 16 different things so the largest integer we can encode is 15).
+First we figure out how many digits in the binary code (base 2) for number 18 (in base 10). 
+For 18, the binary code has 5 digits (if we have four digits, we can encode 16 different 
+things so the largest integer we can encode is 15).
 * first divide 18 by 16 to get the left most digit (which tells how many 16s)
 18 / 16, quotient = 1, remainder = 2, so the left most digit is 1 (quotient)
 * now divide the remainder 2 by 8 (which tells how many 8s) 
@@ -341,4 +343,5 @@ First we figure out how many digits in the binary code (base 2) for number 18 (i
 
 The binary code for 18 is 10010 
 ```
-- Homework assignment: USACO problem [Palindromic Squares](http://train.usaco.org/usacoprob2?a=ELta9aRgoMh&S=palsquare). If you have completed Exercise 2 & Exercise 3, the Palindromic Squares problem shall be a piece of cake to you!
+- Homework assignment: USACO problem [Palindromic Squares](http://train.usaco.org/usacoprob2?a=ELta9aRgoMh&S=palsquare). 
+If you have completed Exercise 2 & Exercise 3, the Palindromic Squares problem shall be a piece of cake to you!
