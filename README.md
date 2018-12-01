@@ -345,3 +345,42 @@ The binary code for 18 is 10010
 ```
 - Homework assignment: USACO problem [Palindromic Squares](http://train.usaco.org/usacoprob2?a=ELta9aRgoMh&S=palsquare). 
 If you have completed Exercise 2 & Exercise 3, the Palindromic Squares problem shall be a piece of cake to you!
+
+## Week 28 (Dec 1-Dec 7)
+- Review: transformation, name that number, and palindromic squards (what worked and what didn't work for you)
+- Recap: complete search
+- Exercise 1:  Number tower & its reflection
+```
+Example input 5,
+ouput:
+    1
+   222
+  33333
+ 4444444
+555555555
+---------
+555555555
+ 4444444
+  33333
+   222
+    1
+```
+- Exercise 2: Pokemon! Write a program to sort the pokemon cards according to their prices or power numbers ([review sort](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard2.cpp); [review struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md))
+```
+Sample input:
+4 price
+Weedle 40 15
+Paras 60 10
+Closter 120 50
+Hydreigon 150 34
+
+The first line tells how many Pokemon cards, and how to sort the cards (either power or price) 
+The second and following lines show the power and price for each pokemon card.
+
+Your program needs to output the cards according to the requirement. 
+Sample output:
+Paras 60 10
+Weedle 40 15
+Hydreigon 150 34
+Closter 120 50
+```
