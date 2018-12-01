@@ -348,6 +348,8 @@ If you have completed Exercise 2 & Exercise 3, the Palindromic Squares problem s
 
 ## Week 28 (Dec 1-Dec 7)
 - Review: transformation, name that number, and palindromic squards (what worked and what didn't work for you)
+- What's this? "0123456789"[7]
+- What's this? "0123456789ABCDEFGHIGK"[15]
 - Recap: complete search
 - Exercise 1:  Number tower & its reflection
 ```
