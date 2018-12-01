@@ -351,6 +351,7 @@ If you have completed Exercise 2 & Exercise 3, the Palindromic Squares problem s
 - What's this? "0123456789"[7]
 - What's this? "0123456789ABCDEFGHIGK"[15]
 - Recap: complete search
+- Introduce [Timus Online Judge](http://acm.timus.ru/) (similar to AIZU using cin & cout & choose G++7.1)
 - Exercise 1:  Number tower & its reflection
 ```
 Example input 5,
