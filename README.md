@@ -392,7 +392,7 @@ Closter 120 50
 
 ## Week 29 (Dec 16-Dec 23)
 - Review: complete search problems
-- Quiz: write a program that takes in a list of numbers and outputs the maximum, minimum, average, and the medium. You may use the following as input for testing (the first line tells how many numbers, and the second line shows the actual numbers). 
+- Quiz: write a program that takes in a list of numbers and outputs the maximum, minimum, average, and the median. You may use the following as input for testing (the first line tells how many numbers, and the second line shows the actual numbers). 
 ```
 12
 20 30 23 40 1 2 35 188 500 10 10000 100
