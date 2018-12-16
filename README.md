@@ -389,3 +389,9 @@ Closter 120 50
 ```
 - Homework assignment: [USACO dual pylindrome](http://train.usaco.org/usacoprob2?a=oezbVVZ1Fo3&S=dualpal)
 - Optional HW assignments:  [Timus: Lost in Localization](http://acm.timus.ru/problem.aspx?space=1&num=1785); [Timus: Two Gangsters](http://acm.timus.ru/problem.aspx?space=1&num=1409); [Timus: Bicycle Codes](http://acm.timus.ru/problem.aspx?space=1&num=1877); [Timus: Eniya](http://acm.timus.ru/problem.aspx?space=1&num=1293); [Timus: Grisha] (http://acm.timus.ru/problem.aspx?space=1&num=2012); [Timus: berries](http://acm.timus.ru/problem.aspx?space=1&num=2001)
+
+## Week 29 (Dec 16-Dec 23)
+- Review: complete search problems
+- Exercise 1: Timus [Simple Expression](http://acm.timus.ru/problem.aspx?space=1&num=2066)
+- Exercise 2: Timus [Hidden Entrance](http://acm.timus.ru/problem.aspx?space=1&num=1910)
+- Sometimes being greedy is good. Assume you work as a cashier, and you need to make a change for 80 cents. Obviously you don't want to give your customer 80 pennies (you can certainly do it, but your customer probably won't be happy). Instead, you give 3 quarters, and 1 nickel. By doing this, you give the fewest number of coins for the amount! Can you write a program that takes the change amount as the input, and outputs the fewest number of coins for making the change? You can assume you have unlimited numbers of common coins (penny, nickel, dime and quarter). This will be the exercise #2 for today.
