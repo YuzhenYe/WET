@@ -392,6 +392,11 @@ Closter 120 50
 
 ## Week 29 (Dec 16-Dec 23)
 - Review: complete search problems
+- Quiz: write a program that takes in a list of numbers and outputs the maximum, minimum, average, and the medium. You may use the following as input for testing (the first line tells how many numbers, and the second line shows the actual numbers). 
+```
+12
+20 30 23 40 1 2 35 188 500 10 10000 100
+```
 - Exercise 1: Timus [Simple Expression](http://acm.timus.ru/problem.aspx?space=1&num=2066)
 - Exercise 2: Timus [Hidden Entrance](http://acm.timus.ru/problem.aspx?space=1&num=1910)
 - Sometimes being greedy is good. Assume you work as a cashier, and you need to make a change for 80 cents. Obviously you don't want to give your customer 80 pennies (you can certainly do it, but your customer probably won't be happy). Instead, you give 3 quarters, and 1 nickel. By doing this, you give the fewest number of coins for the amount! Can you write a program that takes the change amount as the input, and outputs the fewest number of coins for making the change? You can assume you have unlimited numbers of common coins (penny, nickel, dime and quarter). This will be the exercise #2 for today.
