@@ -12,7 +12,7 @@
 - Review 1: [Struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md); Define and use functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp); Sorting [quicksort in C++](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard2.cpp) 
 - Review 2: USACO problem: [Mixing milk](http://train.usaco.org/usacoprob2?a=yxBCZyWduDD&S=milk)
 - Review 3: complete search & greedy approach
-- Problem 1: Name demixer! A name keeper of a swim club messed up the names of all its swimmers -- he accidently removed all the spaces between names so the names are concatanated into a string, for example, smithjohngeorgehuntercrystaljonalexisbingruitylermike. Please help the name keeper to figure out all the names. You may use the following common names to solve the problem. Use this [file](http://github.com/YuzhenYe/WET/blob/master/basics/name.txt) as the input. The output shall be
+- Problem 1: Name demixer! A name keeper of a swim club messed up the names of all its swimmers -- he accidentally removed all the spaces between names so the names are concatanated into a string, for example, smithjohngeorgehuntercrystaljonalexisbingruitylermike. Please help the name keeper to figure out all the names. You may use the following common names to solve the problem. Use this [file](http://github.com/YuzhenYe/WET/blob/master/basics/name.txt) as the input. The output shall be
 ```
 smith john george hunter crystal jon alexis bingrui tyler mike
 ```
