@@ -12,7 +12,10 @@
 - Review 1: [Struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md); Define and use functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp); Sorting [quicksort in C++](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard2.cpp) 
 - Review 2: USACO problem: [Mixing milk](http://train.usaco.org/usacoprob2?a=yxBCZyWduDD&S=milk)
 - Review 3: complete search & greedy approach
-- Problem 1: Name demixer! A name keeper of a swim club messed up the names of all its swimmers -- he accidently removed all the spaces between names so the names are concatanated into a string, for example, smithjohngeorgehuntercrystaljonalexisbingruitylermike. Please help the name keeper to figure out all the names. You may use the following common names to solve the problem. Use this [file](http://github.com/YuzhenYe/WET/blob/master/basics/name.txt) as the input.
+- Problem 1: Name demixer! A name keeper of a swim club messed up the names of all its swimmers -- he accidently removed all the spaces between names so the names are concatanated into a string, for example, smithjohngeorgehuntercrystaljonalexisbingruitylermike. Please help the name keeper to figure out all the names. You may use the following common names to solve the problem. Use this [file](http://github.com/YuzhenYe/WET/blob/master/basics/name.txt) as the input. The output shall be
+```
+smith john george hunter crystal jon alexis bingrui tyler mike
+```
 - Problem 2: Lucky numbers. There are several types of numbers that are commonly termed lucky numbers. We will work on the lucky numbers obtained this way. First, writing out all odd numbers: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, .... The first odd number >1 is 3, so strike out every third number from the list: 1, 3, 7, 9, 13, 15, 19, .... The first odd number greater than 3 in the list is 7, so strike out every seventh number: 1, 3, 7, 9, 13, 15, 21, 25, 31, .... Write a program to generate lucky numbers using this approach. Your program only applies the striking out procedure twice, and only reports numbers that are smaller than 1000. Call your program luckynumber.cpp.
 - Problem 3: USACO Combination lock 
 
