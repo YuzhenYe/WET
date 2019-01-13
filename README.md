@@ -1,7 +1,7 @@
 # Resouces for WET gang
 ## Main resources
   1) [C++ online tutorial](http://www.cplusplus.com/doc/tutorial/); [Game Programming in C++](http://www.jblearning.com/catalog/9781598220322/); [C++ STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-  2) [USA Computing Olympiad website](http://www.usaco.org); [Rosalind](http://rosalind.info/problems/locations/)
+  2) [USA Computing Olympiad website](http://www.usaco.org); [AIZU](http://judge.u-aizu.ac.jp/onlinejudge/); [Timus](http://acm.timus.ru).
 ## [Goals](https://github.com/YuzhenYe/WET/blob/master/assessments/goals.md)
 
 # Weekly topics/assignments
