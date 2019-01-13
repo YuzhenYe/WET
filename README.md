@@ -10,12 +10,9 @@
 ## Week 30  (Jan 13-19)
 - Review 0: [Hello World](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp); [variables](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt); String & characters [[description](https://github.com/YuzhenYe/WET/blob/master/basics/stringchar.md)]; [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
 - Review 1: [Struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md); Define and use functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp); Sorting [quicksort in C++](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard2.cpp) 
-- Review 2: USACO problem: Mixing milk
+- Review 2: USACO problem: [Mixing milk](http://train.usaco.org/usacoprob2?a=yxBCZyWduDD&S=milk)
 - Review 3: complete search & greedy approach
-- Problem 1: Name demixer! A name keeper of a swim club messed up the names of all its swimmers -- he accidently removed all the spaces between names so the names are concatanated into a string, for example, smithjohngeorgehuntercrystaljonalexisbingruitylermike. Please help the name keeper to figure out all the names. You may use the following common names to solve the problem. 
-```
-crystal hunter jon alexis george smith bingrui tyler ben mike david mark charles eric kelvin 
-```
+- Problem 1: Name demixer! A name keeper of a swim club messed up the names of all its swimmers -- he accidently removed all the spaces between names so the names are concatanated into a string, for example, smithjohngeorgehuntercrystaljonalexisbingruitylermike. Please help the name keeper to figure out all the names. You may use the following common names to solve the problem. Use this [file](http://github.com/YuzhenYe/WET/blob/master/basic/name.txt) as the input.
 - Problem 2: Lucky numbers. There are several types of numbers that are commonly termed lucky numbers. We will work on the lucky numbers obtained this way. First, writing out all odd numbers: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, .... The first odd number >1 is 3, so strike out every third number from the list: 1, 3, 7, 9, 13, 15, 19, .... The first odd number greater than 3 in the list is 7, so strike out every seventh number: 1, 3, 7, 9, 13, 15, 21, 25, 31, .... Write a program to generate lucky numbers using this approach. Your program only applies the striking out procedure twice, and only reports numbers that are smaller than 1000. Call your program luckynumber.cpp.
 - Problem 3: USACO Combination lock 
 
@@ -31,7 +28,7 @@ crystal hunter jon alexis george smith bingrui tyler ben mike david mark charles
 - Exercise 1: Timus [Simple Expression](http://acm.timus.ru/problem.aspx?space=1&num=2066)
 - Exercise 2: Timus [Hidden Entrance](http://acm.timus.ru/problem.aspx?space=1&num=1910)
 - Sometimes being greedy is good. Assume you work as a cashier, and you need to make a change for 80 cents. Obviously you don't want to give your customer 80 pennies (you can certainly do it, but your customer probably won't be happy). Instead, you give 3 quarters, and 1 nickel. By doing this, you give the fewest number of coins for the amount! Can you write a program that takes the change amount as the input, and outputs the fewest number of coins for making the change? You can assume you have unlimited numbers of common coins (penny, nickel, dime and quarter). This will be the exercise #3 for today.
-- Homework assignments: 1) complete all the exercise problems if you haven't completed them; 2) USACO [Milking Cows](http://train.usaco.org/usacoprob2?a=WxKvKhw0ed4&S=milk2); 3) Timus problems [Wedding dinner](http://acm.timus.ru/problem.aspx?space=1&num=2100) & [Four Imps](http://acm.timus.ru/problem.aspx?space=1&num=1924)
+- Homework assignments: 1) complete all the exercise problems if you haven't completed them; 2) USACO [Mixing milk](http://train.usaco.org/usacoprob2?a=WxKvKhw0ed4&S=milk2); 3) Timus problems [Wedding dinner](http://acm.timus.ru/problem.aspx?space=1&num=2100) & [Four Imps](http://acm.timus.ru/problem.aspx?space=1&num=1924)
 ## Week 28 (Dec 1-Dec 7)
 - Review: transformation, name that number, and palindromic squards (what worked and what didn't work for you)
 - What's this? "0123456789"[7]

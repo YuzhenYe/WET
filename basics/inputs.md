@@ -110,3 +110,17 @@ while(1) {
 	if(tmp == "0") break;
 }
 ```
+Be aware that a file/standard input don't stop until your program read the last of the file twice
+```
+#the following code may not work for some cases
+#how: it didn't stop until it had read the last line of the file (gift1.in) twice. 
+#why:  streams/files in C and C++ don't predict when you have reached the end of the file, but the rather indicate if you have tried to read past the end of the file. 
+while(!fin.eof()) {
+ 	fin >> giver >> amount >> howmany; 
+	//....
+}
+#this problem can be fixed as following
+while(fin >> giver >> amount >> howmany) {
+	//....
+}
+```

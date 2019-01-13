@@ -9,8 +9,8 @@ cin>>tot;
 int values[200000];
 for(int i = 0; i < tot; i ++) cin >> values[i];
 ```
-Your code creates an array of which can hold up to 200000 items, however, in an actual run, the array with 200000 slots may actually just
-has 10 items (because tot is 10). 
+Your code creates an array of integer, which can hold 200000 items, however, in an actual run, the array with 200000 slots may actually just
+have 10 items (when tot is 10). 
 
 ## Declaration of an array dynamically
 ```
@@ -22,7 +22,7 @@ for(int i = 0; i < tot; i ++) cin >> values[i];
 In the above code, an array which can store tot integers is dynamically allocated, the variable called values is a pointer, which points
 to the array just allocated.  
 
-A little more details. In this case, the computer dynamically allocates space for tot (which may be 5, 10, depending on the input when the program runs) elements of type int and returns a pointer to the first element of the sequence, which is assigned to values (a pointer). Therefore, values (a pointer) now points to a valid block of memory with space for tot elements of type int.
+A little more details. In this case, the computer dynamically allocates space for tot (which may be 5, 10, depending on the input when the program runs) elements of type int and returns a pointer to the first element of the sequence, which is assigned to values (a pointer). Therefore, values now points to a valid block of memory with space for tot elements of type int.
 
 See another example
 ```
