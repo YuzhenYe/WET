@@ -7,7 +7,12 @@
 # Weekly topics/assignments
 
 ## 2019
-## Week 30  (Jan 13-19)
+## Week 31 (Jan 20-26)
+- Warmup practice: mean & squared deviation calculation
+- Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1567">SMS-spam</a>
+- Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1319">Hotel</a>
+
+## Week 30 (Jan 13-19)
 - Review 0: [Hello World](https://github.com/YuzhenYe/WET/blob/master/firstCodes/HelloWorld.cpp); [variables](https://github.com/YuzhenYe/WET/blob/master/basics/variable.txt); String & characters [[description](https://github.com/YuzhenYe/WET/blob/master/basics/stringchar.md)]; [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md), [loops](https://github.com/YuzhenYe/WET/blob/master/basics/loops.md) (continue/break), branching structure (if-else; if-else if-else), inputs (cin, and type conversion) [description](https://github.com/YuzhenYe/WET/blob/master/basics/inputs.md); [InputsDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/InputsDemo.cpp)
 - Review 1: [Struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md); Define and use functions [FunctionDemo.cpp](https://github.com/YuzhenYe/WET/blob/master/firstCodes/FunctionDemo.cpp); Sorting [quicksort in C++](https://github.com/YuzhenYe/WET/blob/master/USACO/scoreboard2.cpp) 
 - Review 2: USACO problem: [Mixing milk](http://train.usaco.org/usacoprob2?a=yxBCZyWduDD&S=milk)
