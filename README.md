@@ -8,7 +8,7 @@
 
 ## 2019
 ## Week 31 (Jan 20-26)
-- Warmup practice: mean & squared deviation calculation
+- Warmup practice: mean & standard deviation calculation
 - Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1567">SMS-spam</a>
 - Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1319">Hotel</a>
 
