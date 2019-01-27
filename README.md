@@ -7,10 +7,11 @@
 # Weekly topics/assignments
 
 ## 2019
-## Week 32 (Jan 27 - Feb 3)
+## Week 32 (Jan 27 - Feb 2)
 - Warmup practice: given an integer, print its digits one at a time. For example, for 345, your program prints 5, 4, 3
 - Timus problem: Penguins (use getline() function to get an entire line one)
-- USACO problem: <a href="http://train.usaco.org/usacoprob2?a=gahCOktgeJ2&S=crypt1">Prime Cryptarithm</a>; <a href="http://train.usaco.org/usacoprob2?a=gahCOktgeJ2&S=combo">Combination Lock</a> 
+- USACO problem: <a href="http://train.usaco.org/usacoprob2?a=gahCOktgeJ2&S=crypt1">Prime Cryptarithm</a>. This is a complicated problem, and it will save you a lot of time if you define a function in your program that checks if a number only contains good digits or not. For example, you may define a function like this: bool goodnum(int num, int n, int *digit), where num is the number to be checked, n is the number of good digits and digit stores the good digits, and the function returns true (num only contains good digits) or false (otherwise). So calling goodnum(222, 5, {2, 3, 4, 6 8}), for example, shall return true, because 222 contains only the good digits. Why define a function like this? Your program needs to check if a number contains good digits or not, again and again, in many places. Also how to figure how many good solutions? There is no shortcut, just check one at a time in a systematic way (first check 100 * 10, and then 100 * 11, and so on), and keep track of the count of valid solutions.
+- Homework assignment: 1) complete the USACO problem Prime Cryptarithm if you haven't completed it; 2) Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1493">One Step from Happiness</a>; 3) Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1243">Divorce of the Seven Dwarfs</a>. Happy coding!
 
 ## Week 31 (Jan 20-26)
 - Warmup practice: mean & standard deviation calculation
