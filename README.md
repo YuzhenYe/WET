@@ -7,6 +7,11 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 32 (Jan 27 - Feb 3)
+- Warmup practice: given an integer, print its digits one at a time. For example, for 345, your program prints 5, 4, 3
+- Timus problem: Penguins (use getline() function to get an entire line one)
+- USACO problem: <a href="Prime Cryptarithm">Prime Cryptarithm</a>; <a href="http://train.usaco.org/usacoprob2?a=gahCOktgeJ2&S=combo">Combination Lock</a> 
+
 ## Week 31 (Jan 20-26)
 - Warmup practice: mean & standard deviation calculation
 - Timus problem: <a href="http://acm.timus.ru/problem.aspx?space=1&num=1567">SMS-spam</a>
