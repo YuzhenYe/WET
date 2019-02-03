@@ -8,7 +8,7 @@
 
 ## 2019
 ## Week 33 (Feb 3 - Feb 9)
-- Friends. Assume there are n (which is even) people, and one can be friend with only another person. So for n people, there will be n/2 pairs of friends. Write a program that computes the number of different ways of making friends for the entire group. For example, if there are two people, we will only see one case (the two people have to be friend for each other, as there are no other choices). If there are four people (Jon, Hunter, Alexis, and Bingrui), there are three possibilityes: 1) (Jon-Hunter, Alexis-Bingrui), 2) (Jon-Bingrui, Hunter-Alexis), and 3) (Hunter-Bingrui, Jon-Alexis). 
+- Friends. Assume there are n (which is even) people, and one can be friend with only another person. So for n people, there will be n/2 pairs of friends. Write a program that computes the number of different ways of making friends for the entire group. For example, if there are two people, we will only see one case (the two people have to be friend for each other, as there are no other choices). If there are four people (Jon, Hunter, Alexis, and Bingrui), there are three possibilities: 1) (Jon-Hunter, Alexis-Bingrui), 2) (Jon-Bingrui, Hunter-Alexis), and 3) (Hunter-Bingrui, Jon-Alexis). 
 - Review: recursion.
 Recursion occurs when a thing is defined in terms of itself or of its type. The Fibonacci sequence is a classic example of recursion, in which Fib(0)=0, Fib(1)=1 are the bases, and Fib(n)=Fib(n-1)+Fib(n-2) for n > 1 (the recursive rule). Assume you implement a function called fib in your program, which gets an integer n as its parameter, and returns the nth number in the Fibonacci sequence, this is how fib() looks like:
 
