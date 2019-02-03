@@ -7,6 +7,20 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 33 (Feb 3 - Feb 9)
+- Friends. Assume there are n (which is even) people, and one can be friend with only another person. So for n people, there will be n/2 pairs of friends. Write a program that computes the number of different ways of making friends for the entire group. For example, if there are two people, we will only see one case (the two people have to be friend for each other, as there are no other choices). If there are four people (Jon, Hunter, Alexis, and Bingrui), there are three possibilityes: 1) (Jon-Hunter, Alexis-Bingrui), 2) (Jon-Bingrui, Hunter-Alexis), and 3) (Hunter-Bingrui, Jon-Alexis). 
+- Review: recursion.
+Recursion occurs when a thing is defined in terms of itself or of its type. The Fibonacci sequence is a classic example of recursion, in which Fib(0)=0, Fib(1)=1 are the bases, and Fib(n)=Fib(n-1)+Fib(n-2) for n > 1 (the recursive rule). Assume you implement a function called fib in your program, which gets an integer n as its parameter, and returns the nth number in the Fibonacci sequence, this is how fib() looks like:
+
+```
+int fib(int n) {
+        if(n == 0) return 0;
+        else if(n == 1) return 1;
+        else return fib(n-1)+fib(n-2);
+}
+```
+Here is another example: factorial of n. n! = n(n-1)(n-2)(n-3)...1, so Fac(n) = n * Fac(n - 1); the base case: F(1) = 1.
+- [USACO problem: Combination Lock](http://train.usaco.org/usacoprob2?a=YBlTmVmnxlt&S=combo). "Please determine the number of distinct settings for the dials that will open the lock". How to solve the problem? 1) you need to have a way to check each distinct setting in a systematic way; and 2) you need to know if a setting works or not. 
 ## Week 32 (Jan 27 - Feb 2)
 - Warmup practice: given an integer, print its digits one at a time. For example, for 345, your program prints 5, 4, 3
 - Timus problem: Penguins (use getline() function to get an entire line one)
