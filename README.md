@@ -8,7 +8,7 @@
 
 ## 2019
 ## Week 33 (Feb 3 - Feb 9)
-- Friends. Assume there are n (which is even) people, and one can be friend with only another person. So for n people, there will be n/2 pairs of friends. Write a program that computes the number of different ways of making friends for the entire group. For example, if there are two people, we will only see one case (the two people have to be friend for each other, as there are no other choices). If there are four people (Jon, Hunter, Alexis, and Bingrui), there are three possibilities: 1) (Jon-Hunter, Alexis-Bingrui), 2) (Jon-Bingrui, Hunter-Alexis), and 3) (Hunter-Bingrui, Jon-Alexis). 
+- Friends. Assume there are n (which is even) people, and one can be friend with only another person. So for n people, there will be n/2 pairs of friends. Write a program that computes the number of different ways of making friends for the entire group. For example, if there are two people, we will only see one case (the two people have to be friend for each other, as there are no other choices). If there are four people (Jon, Hunter, Alexis, and Bingrui), there are three possibilities: 1) (Jon-Hunter, Alexis-Bingrui), 2) (Jon-Bingrui, Hunter-Alexis), and 3) (Hunter-Bingrui, Jon-Alexis). Denote f(n) as the number of possible pairings for the group of n people, can you write a formula for f(n) using recursion, and without using recursion, respectively?
 - Review: recursion.
 Recursion occurs when a thing is defined in terms of itself or of its type. The Fibonacci sequence is a classic example of recursion, in which Fib(0)=0, Fib(1)=1 are the bases, and Fib(n)=Fib(n-1)+Fib(n-2) for n > 1 (the recursive rule). Assume you implement a function called fib in your program, which gets an integer n as its parameter, and returns the nth number in the Fibonacci sequence, this is how fib() looks like:
 
@@ -21,6 +21,9 @@ int fib(int n) {
 ```
 Here is another example: factorial of n. n! = n(n-1)(n-2)(n-3)...1, so Fac(n) = n * Fac(n - 1); the base case: F(1) = 1.
 - [USACO problem: Combination Lock](http://train.usaco.org/usacoprob2?a=YBlTmVmnxlt&S=combo). "Please determine the number of distinct settings for the dials that will open the lock". How to solve the problem? 1) you need to have a way to check each distinct setting in a systematic way; and 2) you need to know if a setting works or not. 
+- Homework assignments: 1) complete Combination Lock problem if you haven't; 2) [Timus Power](http://acm.timus.ru/problem.aspx?space=1&num=1110) (Hints: in C++, you can use pow(x, n) to compute the value of x to the power of n; however, you cannot call pow(x, n) directly to solve this problem, as pow(x, n) explodes when n gets large; think about how you can use (A*B) MOD C = ((A MOD C) * B) MOD C to solve this problem)
+; 3) [Timus Farm](http://acm.timus.ru/problem.aspx?space=1&num=1349) (hint: [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem); 4) [Timus Taxi](http://acm.timus.ru/problem.aspx?space=1&num=1607) (obviously you need to use a loop in your program, to allow Petr and driver to take turns to change price).
+
 ## Week 32 (Jan 27 - Feb 2)
 - Warmup practice: given an integer, print its digits one at a time. For example, for 345, your program prints 5, 4, 3
 - Timus problem: Penguins (use getline() function to get an entire line one)
