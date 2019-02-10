@@ -13,7 +13,7 @@
 - Number sense -- 100^100? Can you write a program to compute the maximum integer of signed int (32 bits)? Brute-force approach -- yes as long as it is managable to try all possibilities. 
 - Enumeration: all integers in the range of (0, 1000); all possible combinations for locks with only two dials, three dials, and n dials. 
 - DNA generator: write a program that produces all possible DNA segments of n letters (in the alphabet of {A, T, C, G}). For example, when n = 2, your program outputs all the di-nucleotides, AA, AT, AC, ... (16 in total). When n = 4, your program outputs AAAA, AAAT, AAAC, .... (256 of them!).
-- Homework assignment 1: Friends cont. Last time you figured out a way to compute the total ways of forming pairs of friends for a group of n people (which is (n-1)!!). For this exercise, write a program that lists the possible pairings. For example, for four people (Jon, Hunter, Alexis, and Bingrui), your program should report the actual pairings. 
+- Homework assignment 1: Friends cont. Last time you figured out a way to compute the total ways of forming pairs of friends for a group of n people (which is (n-1)!!). For this exercise, write a program that lists the possible pairings. For example, for four people (Jon, Hunter, Alexis, and Bingrui), your program should report the actual pairings as shown below in Example 1. 
 ```
 Example input 1:
 4
