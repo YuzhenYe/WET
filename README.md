@@ -7,6 +7,24 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 34 (Feb 10 - Feb 16)
+- Warm up exercise: DNA compression. Sample input: AAAAAAAAGGGGGG, output: A8G6
+- [Timus Power](http://acm.timus.ru/problem.aspx?space=1&num=1110) analysis; recursion review.
+- Number sense -- 100^100? Can you write a program to compute the maximum integer of signed int (32 bits)? Brute-force approach -- yes as long as it is managable to try all possibilities. 
+- Enumeration: all integers in the range of (0, 1000); all possible combinations for locks with only two dials, three dials, and n dials. 
+- Friends cont. Last time you figured out a way to compute the total ways of forming pairs of friends for a group of n people (which is (n-1)!!). For this exercise, write a program that lists the possible pairings. For example, for four people (Jon, Hunter, Alexis, and Bingrui), your program should report the actual pairings. 
+```
+Example input:
+4
+Jon Hunter Bingrui Alexis
+
+Output:
+Jon-Hunter Hunter-Jon Bingrui-Alexis Alexis-Bingrui 
+Jon-Bingrui Hunter-Alexis Bingrui-Jon Alexis-Hunter 
+Jon-Alexis Hunter-Bingrui Bingrui-Hunter Alexis-Jon 
+```
+- [USACO Wormholes problem](https://train.usaco.org/usacoprob2?a=WTk4GnPVwxM&S=wormhole)
+
 ## Week 33 (Feb 3 - Feb 9)
 - Friends. Assume there are n (which is even) people, and one can be friend with only another person. So for n people, there will be n/2 pairs of friends. Write a program that computes the number of different ways of making friends for the entire group. For example, if there are two people, we will only see one case (the two people have to be friend for each other, as there are no other choices). If there are four people (Jon, Hunter, Alexis, and Bingrui), there are three possibilities: 1) (Jon-Hunter, Alexis-Bingrui), 2) (Jon-Bingrui, Hunter-Alexis), and 3) (Hunter-Bingrui, Jon-Alexis). Denote f(n) as the number of possible pairings for the group of n people, can you write a formula for f(n) using recursion, and without using recursion, respectively?
 - Review: recursion.
