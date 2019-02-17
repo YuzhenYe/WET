@@ -14,6 +14,27 @@
 - Write your own program using queue & stack to play with data of different types.
 - AIZU: [Reverse Polish Notation](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_A)   
 - USACO: [Wormholes](https://train.usaco.org/usacoprob2?a=M6HCbEFPVp2&S=wormhole)  
+- Homework assignment: finish USACO Wormholes problem. The strategy to solve the problem is to try all possible pairings, and for each distinct pairing, check if the cow may get stuck in cycles when it starts from any of the wormholes (if it does, add 1 to the solution). How to enumerate pairings? It is very similar to what you did in the "finding friends" problem (except that your program now needs to consider pairing between the wormholes instead of people). How to check if a cow gets stuck -- let the cow walk many steps (e.g., the same number as the wormholes), if the cow finishes all the steps without getting out of a wormhole that has no wormhole directly to its right, then the cow is safe; otherwise, the cow is stuck in cycles. 
+- Homework assignment: [Timus Bayan](http://acm.timus.ru/problem.aspx?space=1&num=1563). This shall be straightforward problem. Just make sure program gets in the data correctly. Try to avoid mixing cin and getline. Assume you have these two lines as input,
+```
+12
+This is a line
+```
+and you use cin and getline as following
+```
+int n;
+cin >> n;
+string line;
+getline(cin, line);
+```
+guess what, line is empty instead of getting "This is a line". One way to avoid this problem is like following,
+```
+int n;
+string line;
+getline(cin, line);
+n = stoi(line);
+getline(cin, line);
+```
 
 ## Week 34 (Feb 10 - Feb 16)
 - Warm up exercise: DNA compression. Sample input: AAAAAAAAGGGGGG, output: A8G6
