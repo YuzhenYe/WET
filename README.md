@@ -7,6 +7,13 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 35 (Feb 17 - Feb 23)
+- Review: array (static and dynammicly allocated)(e.g., int n[10]; char a[4]={'A','C','G','T'}; string *names = new string[100])
+- Basic data structures: list, [stack](http://www.cplusplus.com/reference/stack/stack/), and [queue](http://www.cplusplus.com/reference/queue/queue/). You can see a data structure is a bundle of values and operations. You may find it more convenient to use one data structure over the other (for some problem), as each data structure provides a different way of working with data. Queue allows first-in-first-out (FIFO) operation of data, while stack allows LIFO (last-in-first-out) operation. These data structures are relatively easy to use in C++ -- you just need to know to to declare them, and get familiar with the functions/operations each data structure allows. See an [example](https://github.com/YuzhenYe/WET/blob/master/basics/stackqueue.cpp).
+- Write your own program using queue & stack to play with data of different types.
+- AIZU: [Reverse Polish Notation](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_A)   
+- USACO: [Wormholes](https://train.usaco.org/usacoprob2?a=M6HCbEFPVp2&S=wormhole)  
+
 ## Week 34 (Feb 10 - Feb 16)
 - Warm up exercise: DNA compression. Sample input: AAAAAAAAGGGGGG, output: A8G6
 - [Timus Power](http://acm.timus.ru/problem.aspx?space=1&num=1110) analysis; recursion review.
