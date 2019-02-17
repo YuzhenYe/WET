@@ -8,6 +8,7 @@
 
 ## 2019
 ## Week 35 (Feb 17 - Feb 23)
+- Sign up for [IU programming contest](https://goo.gl/forms/k6H4PJKKVcsaWsjf1)
 - Review: array (static and dynamically allocated)(e.g., int n[10]; char a[4]={'A','C','G','T'}; string *names = new string[100])
 - Basic data structures: list, [stack](http://www.cplusplus.com/reference/stack/stack/), and [queue](http://www.cplusplus.com/reference/queue/queue/). You can see a data structure as a bundle of values and functions/operations. You may find it more convenient to use one data structure over the other (for some problem), as each data structure provides a different way of working with data. Queue allows first-in-first-out (FIFO) operation of data, while stack allows LIFO (last-in-first-out) operation. These data structures are relatively easy to use in C++ -- you just need to know to to declare them, and get familiar with the functions/operations each data structure allows. See an [example](https://github.com/YuzhenYe/WET/blob/master/basics/stackqueue.cpp).
 - Write your own program using queue & stack to play with data of different types.
