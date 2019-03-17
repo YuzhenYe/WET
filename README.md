@@ -12,8 +12,7 @@
 - Exercise 1: [Timus -- Sandro's book](http://acm.timus.ru/problem.aspx?space=1&num=1723)
 - Review: data structures, list, [stack](http://www.cplusplus.com/reference/stack/stack/), and [queue](http://www.cplusplus.com/reference/queue/queue/).  See an [example](https://github.com/YuzhenYe/WET/blob/master/basics/stackqueue.cpp).
 - Exercise 2: [Hackerearth -- Monk and Chamber of Secrets](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/monk-and-chamber-of-secrets/) (sign in using google email)
-- Exercise 3: [USACO -- Ski Course Design](https://train.usaco.org/usacoprob2?a=XdNnicRfYTn&S=skidesign)
-- Homework assignments: 1) complete exercise 1-3 if you haven't; 2) AIZU: [Round-robin scheduling](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_B); 3) Timus: [Donald is a postman](http://acm.timus.ru/problem.aspx?space=1&num=2023)
+- Homework assignments: 1) complete exercise 1-2 if you haven't; 2) AIZU: [Round-robin scheduling](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_3_B); 3) Timus: [Donald is a postman](http://acm.timus.ru/problem.aspx?space=1&num=2023)
 
 ## Week 36-37 (March 2 - March 16)
 -  Timus [Scholarship](http://acm.timus.ru/problem.aspx?space=1&num=2056)
