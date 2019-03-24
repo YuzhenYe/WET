@@ -11,7 +11,7 @@
 - Quiz (on queue)
 - Review -- strategies to solve problems: 1) just do it (read instrution carefully); 2) greedy approach; 3) complete search (try all possibilities)
 - Review -- number sense
-- Timus -- Flag (given N strips, each can be of either blue, red or white, how many different patterns can you make? what's not allowed: neighboring strips cannot be of the same color (so there cannot be white-white, red-red, etc), and if there is a blue stripe, it only only be between a red stripe and a white stripe or between a white stripe and a red stripe).
+- Timus -- Flag (assume there are N strips to put on a flag, and each stripe can be of either blue, red or white, how many different patterns can you make? There are constraints on the patterns: neighboring strips cannot be of the same color (so no white-white, red-red, etc), blue stripes can only be sandwiched between red and white strips (so the stripes can be white-blue-red or red-blue-white, but not white-blue-white or red-blue-red).
 - USACO -- [Ski Course Design](https://train.usaco.org/usacoprob2?a=7rx21PDBaji&S=skidesign)
 ## Week 38 (March 17 - March 23)
 - Variable scope -- [global vs local](https://github.com/YuzhenYe/WET/blob/master/basics/scope.md)
