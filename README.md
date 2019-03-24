@@ -7,6 +7,12 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 39 (March 24 - March 30)
+- Quiz (on queue)
+- Review -- strategies to solve problems: 1) just do it (read instrution carefully); 2) greedy approach; 3) complete search (try all possibilities)
+- Review -- number sense
+- Timus -- Flag (given N strips, each can be of either blue, red or white, how many different patterns can you make? what's not allowed: neighboring strips cannot be of the same color (so there cannot be white-white, red-red, etc), and if there is a blue stripe, it only only be between a red stripe and a white stripe or between a white stripe and a red stripe).
+- USACO -- [Ski Course Design](https://train.usaco.org/usacoprob2?a=7rx21PDBaji&S=skidesign)
 ## Week 38 (March 17 - March 23)
 - Variable scope -- [global vs local](https://github.com/YuzhenYe/WET/blob/master/basics/scope.md)
 - Exercise 1: [Timus -- Sandro's book](http://acm.timus.ru/problem.aspx?space=1&num=1723)
