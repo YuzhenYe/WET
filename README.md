@@ -11,6 +11,8 @@
 - Number sense (algorithm -- time & space complexity)
 - Review: [Timus - flag problem](http://acm.timus.ru/problem.aspx?space=1&num=1225) (why f(n)=f(n-1)+f(n-2)?) 
 - [Timus -- Order](http://acm.timus.ru/problem.aspx?space=1&num=1510). We will try three different algorithms with different time complexity, O(n^2), O(n logn) and O(n).
+- Homework assignment: 1) explain to your mom or dad how Moore's voting algorithm works. 2) [read more about the majority element problem and algorithms](https://www.geeksforgeeks.org/majority-element/); 3) implement the divide-and-conquer algorithm for the Times - Order problem (which is expected to exceed the time limit). How the divide-and-conquer algorithm works? Divide the list of numbers into two halves, get the majority elements from both halves; if the two majority elements are the same, the job is done, otherwise, whichever of the majority element appears more in the entire list of numbers. How to get the majority element for half of the numbers? Of course, apply the same approach -- it is a recursion!
+- Homework assignment: [Timus - Domino Dots](http://acm.timus.ru/problem.aspx?space=1&num=1502). Denote the total number of dots (diamonds) for a set with up to n dots on one side as f(n). It can be computed as f(n) = f(n-1) + (1+2+3...+n) + n(n+1). We will talk about how to derive this formula next week!
 
 ## Week 39 (March 24 - March 30)
 - Quiz (problems on queue & write a code to take protein sequences as inputs and outputs the most frequent amino acid)
