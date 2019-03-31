@@ -7,6 +7,11 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 40 (March 31 - April 5)
+- Number sense (algorithm -- time & space complexity)
+- Review: [Timus - flag problem](http://acm.timus.ru/problem.aspx?space=1&num=1225) (why f(n)=f(n-1)+f(n-2)?) 
+- [Timus -- Order](http://acm.timus.ru/problem.aspx?space=1&num=1510). We will try three different algorithms with different time complexity, O(n^2), O(n logn) and O(n).
+
 ## Week 39 (March 24 - March 30)
 - Quiz (problems on queue & write a code to take protein sequences as inputs and outputs the most frequent amino acid)
 - Review -- strategies to solve problems: 1) just do it (read instrution carefully); 2) greedy approach; 3) complete search (try all possibilities)
