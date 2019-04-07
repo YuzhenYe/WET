@@ -1,0 +1,136 @@
+/*
+LANG: C++
+TASK: wormhole
+ID: yuzheny2 
+*/
+#include <fstream>
+#include <iostream>
+
+using namespace::std;
+int pairingcount(int n) 
+{
+	if(n == 2) return 1;
+	else {
+		return (1 + (n - 2)) * pairs(n - 2);
+	}
+}
+int pairingcount2(int n)
+{
+	//(n-1)!!
+	int c = 1;
+	for(int i = n-1; i > 0; i -= 1) {
+		c *= i;
+	} 
+}
+
+void pairing(int n, int unpaired, int *partner)
+{
+	for(int i = 0; i < n; i ++) {
+		if(partner[i] == -1) continue;
+		for(j = i + 1; j < n; j ++) {
+			if(partner[j] == -1) continue;
+			partner[i] = j;
+			partner[j] = i;
+			pairing(n, unpaired - 2, partner);
+		}
+	}
+}
+
+bool cycle(int n, int *pair, int *x, int *y)
+{
+	int i, j, p1, p2, p3, p4, dtop, dlow, top1, low1, top2, low2;
+
+	cout<<"check pairing"<<endl;
+	for(i = 0; i < n; i ++) {
+		cout<<pair[i]<<" "<<x[pair[i]]<<" "<<y[pair[i]]<<endl;
+	}
+	cout<<endl;
+
+	for(i = 0; i < n; i += 2) {
+		p1 = pair[i];
+		p2 = pair[i + 1];
+		if(y[p1] == y[p2]) return true; //two points with same y (horizontal)
+	}
+	for(i = 0; i < n - 2; i += 2) {
+		p1 = pair[i];
+		p2 = pair[i + 1];
+		if(y[p1] > y[p2]) { top1 = p1; low1 = p2; }
+		else { top1 = p2; low1 = p1; }
+		for(j = i + 2; j < n; j += 2) { //two pairings that cross
+			p3 = pair[j];
+			p4 = pair[j + 1];
+			if(y[p3] > y[p4]) { top2 = p3; low2 = p4; }
+			else { top2 = p4; low2 = p3; }
+			if(y[top1] != y[top2] || y[low1] != y[low2]) continue;	
+			dtop = x[top1] - x[top2];
+			dlow = x[low1] - x[low2];
+			if(dtop > 0 && dlow < 0) return true; //crossing
+			if(dtop < 0 && dlow > 0) return true; //crossing
+		}
+	}
+	return false;
+}
+
+int main()
+{
+	int i, n;
+	int x[12], y[12], partner[12], right[12];
+	ifstream fin("wormhole.in");
+	ofstream fout("wormhole.out");
+	fin >> n;
+	for(i = 0; i < n; i ++) {
+		fin >> x[i] >> y[i];
+	}
+	//get closest hole to the right
+	for(i = 0; i < n; i ++) {
+		right[i] = -1; //-1 no hole to the right
+		rightcod = MAX_INT;
+		for(j = 0; j < n; j ++) {
+			if(y[j] == y[i] && x[j] > x[i]) {
+				if(x[j] < rightcod) {
+					rightcod = x[j];
+					right[i] = j;
+				}
+			} 
+		}
+	}
+	int tryn = 1;
+	int maxp = pairs(n);
+	int **pairings = new int*[maxp];
+	int i, j, p, q;
+	for(int i = 0; i < maxp; i ++) pairings[i] = new int[n];
+	//cout<<"n "<<n<<" pair "<<maxp<<endl;
+	pairings[0][0] = 0; 
+	pairings[0][1] = 1;
+	for(int i = 2; i < n; i += 2) {
+		int old = tryn;
+		for(j = 0; j < old; j ++) {
+			pairings[j][i] = i;
+			pairings[j][i+1] = i+1;
+			for(p = 0; p < i; p += 2) {
+				//cout<<"breaking p "<<p<<endl;
+				for(q = 0; q < i; q ++) {
+					pairings[tryn][q] = pairings[j][q];
+					pairings[tryn+1][q] = pairings[j][q];
+				}
+				//break the pairing (p, p+1)
+				pairings[tryn][i] = pairings[tryn+1][i] = pairings[tryn][p+1];
+				pairings[tryn][p+1] = i; 
+				pairings[tryn][i+1] = i + 1; 
+				pairings[tryn+1][p+1] = i + 1; 
+				pairings[tryn+1][i+1] = i; 
+				tryn += 2;
+			}
+		}		
+	}
+	int valid = 0;
+	for(int i = 0; i < tryn; i ++) {
+		if(cycle(n, pairings[i], x, y)) { 
+			valid += 1;	
+			cout<<"valid"<<endl;
+		}
+	}
+	//cout<<"tryn "<<tryn<<" valid "<<valid<<endl;
+	fout<<valid<<endl;
+	fout.close();
+}

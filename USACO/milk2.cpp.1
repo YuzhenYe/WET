@@ -1,0 +1,49 @@
+/*
+ID: yuzheny2
+TASK: milk2
+LANG: C++
+*/
+#include <iostream>
+#include <fstream>
+using namespace::std;
+
+int main()
+{
+	ifstream fin("milk2.in");
+	ofstream fout("milk2.out");
+
+	int n;
+	fin >> n;
+	int *s = new int[n];
+	int *e = new int[n];
+	for(int i = 0; i < n; i ++) {
+		fin >> s[i] >> e[i];	
+	}
+
+	int longestidle = 0;
+	int longestmilk = e[0] - s[0];
+	int blockstart = s[0];
+	int blockend = e[0];
+	for(int i = 1; i < n; i ++) {
+		if(s[i] > e[i-1]) {	
+			if(blockend - blockstart > longestmilk) {
+				longestmilk = blockend - blockstart;
+			}
+			if(s[i] - e[i-1] > longestidle) {
+				longestidle = s[i]-e[i-1];
+			}
+			blockstart = s[i];
+			blockend = e[i];
+		}
+		else {
+			blockend = blockend > e[i]?blockend:e[i];
+		}
+	}
+	if(blockend - blockstart > longestmilk) {
+		longestmilk = blockend - blockstart;
+	}
+	fout<<longestmilk<<" "<<longestidle<<endl;
+	cout<<longestmilk<<" "<<longestidle<<endl;
+	fin.close();
+	fout.close();
+}
