@@ -11,8 +11,8 @@
 - Get to know programming contest rules ([check it out](https://iupc.indiana.edu/rules.php)); other things (return 0 at the end of your main function; include head files; compile & test your code using sample input before submit & select the right compiler when submit)
 - [Timus: Test Task](http://acm.timus.ru/problem.aspx?space=1&num=2002) (what to do when you see a new problem? "to get the solution, I need to ...", "to compute .., I need to track"...)
 - [Timus: Flat Spots](http://acm.timus.ru/problem.aspx?space=1&num=1617) (how to check things and their counts?)
-- More search algorithm -- BFS (challenging!)
-- [Timus: Isenbaev's Number](http://acm.timus.ru/problem.aspx?space=1&num=1837])
+- Homework assignment 1: complete [Timus: Test Task] and [Timus: Flat Spots] if you haven't.
+- Homework assignment 2: [Timus: Another Dress Rehearsal](http://acm.timus.ru/problem.aspx?space=1&num=2035)
 
 ## Week 40 (March 31 - April 6)
 - Number sense (algorithm -- time & space complexity)
