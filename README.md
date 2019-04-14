@@ -46,6 +46,7 @@ Examplanation:
 5 4 (cruncher #1 got two numbers 2 + 3 = 5, cruncher #2 got a number, which is 4)
 ...
 ```
+- Homework assignment: Timus [Bookworm](http://acm.timus.ru/problem.aspx?space=1&num=1638); [Taxi for Programmers](http://acm.timus.ru/problem.aspx?space=1&num=2005)
 
 ## Week 41 (April 7 - April 13)
 - Get to know programming contest rules ([check it out](https://iupc.indiana.edu/rules.php)); other things (return 0 at the end of your main function; include head files; compile & test your code using sample input before submit & select the right compiler when submit)
