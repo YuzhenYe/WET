@@ -33,12 +33,14 @@ Sample input:
 3
 4  
 Sample output:
-0 9
-2 7
-5 4
 9 0
+5 4
+6 3
+2 7
 7 2
+3 6
 4 5
+0 9
 ```
 
 ## Week 41 (April 7 - April 13)
