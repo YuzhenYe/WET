@@ -25,7 +25,7 @@ Sample input:
 Sample output:
 8.9
 ```
-- Exhaustive search. Review the "finding friends" (Week 34); USACO: Wormholes problem (Week 35). Practice 1: generate all possible bit sequences of length n. For example, if n = 2, there are four possible bit sequences (00 01 10 11). Practice 2: number crunchers, two number crunchers are set to crunch n numbers, the score each cruncher receives is the same as the sum of the numbers he/she crunched. List all the possible scoring outputs. 
+- Exhaustive search. Review the "finding friends" (Week 34); USACO: Wormholes problem (Week 35). Practice 1: generate all possible bit sequences of length n. For example, if n = 2, there are four possible bit sequences (00 01 10 11) (see [solution 1](https://github.com/YuzhenYe/WET/blob/master/basics/bitseq.cpp); [solution 2](https://github.com/YuzhenYe/WET/blob/master/basics/bitseq-2.cpp)). Practice 2: number crunchers, two number crunchers are set to crunch n numbers, the score each cruncher receives is the same as the sum of the numbers he/she crunched. List all the possible scoring outputs. (see [a solution](https://github.com/YuzhenYe/WET/blob/master/basics/cruncher.cpp))
 ```
 Sample input:
 3
@@ -41,6 +41,10 @@ Sample output:
 3 6
 4 5
 0 9
+Examplanation:
+9 0 (cruncher #1 got all the numbers, 2 + 3 + 4 = 9, cruncher #2 got none)
+5 4 (cruncher #1 got two numbers 2 + 3 = 5, cruncher #2 got a number, which is 4)
+...
 ```
 
 ## Week 41 (April 7 - April 13)
@@ -576,5 +580,3 @@ For all coding exercises, you need to use vim to write the code, and then compil
 - ProudProgrammer.cpp:  this program prints "I am a C++ programmer".
 - ProudProgrammerX10.cpp: this program prints 10 lines of "I am a C++ programmer".
 - [Challenge] Numbers.cpp: write a program that display integers from 1 to 100, one number per line.
-
-
