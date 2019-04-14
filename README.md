@@ -7,12 +7,46 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 42 (April 14 - April 21)
+- Review: data type (int, float, double, string, char, bool); arrays (of any data type; indexing); strings (concatenate; check length; access letter in a specific position; conversion); loops (for and while loop); mathematical operations & functions (e.g., sort, pow); conversion (integer to string, to_string() function, 'a', 'b'-'a')
+- Floating point numbers (float/double) precision issue. When we have two integers a, b, if we need to check if they are the same, we simply use a == b; however, it is a bit complicated if you work with double, instead of using a==b, you use abs(a-b) < 1e-10 (or any very small number). Similarly for comparion such as a < b, you use a < b - 1e-10 instead.  
+- Practice 1: [array](https://www.hackerrank.com/challenges/arrays-ds/problem)
+- Practice 2: given n, display the sequence of powers of 2 from 0 to n. When n = 3, the sequence is 1248. 
+- Strategies to solve problems: read problems carefully, use pen & scratch paper, strategies (brute-force, greedy, [dynamic programming])  
+- Practice 3: Farmer John is collecting potatoes. He has n potatoes of different weights to choose from and he can only collect at most k potatoes. Write a program to help John collect k potatoes such that the total weight is maximized. Output the maximum weight. 
+```
+Sample input:
+5 2
+2.3 
+3.4
+5.5
+1.0
+1.3
+Sample output:
+8.9
+```
+- Exhaustive search. Review the "finding friends" (Week 34); USACO: Wormholes problem (Week 35). Practice 1: generate all possible bit sequences of length n. For example, if n = 2, there are four possible bit sequences (00 01 10 11). Practice 2: number crunchers, two number crunchers are set to crunch n numbers, the score each cruncher receives is the same as the sum of the numbers he/she crunched. List all the possible scoring outputs. 
+```
+Sample input:
+3
+2 
+3
+4  
+Sample output:
+0 9
+2 7
+5 4
+9 0
+7 2
+4 5
+```
+
 ## Week 41 (April 7 - April 13)
 - Get to know programming contest rules ([check it out](https://iupc.indiana.edu/rules.php)); other things (return 0 at the end of your main function; include head files; compile & test your code using sample input before submit & select the right compiler when submit)
 - [Timus: Test Task](http://acm.timus.ru/problem.aspx?space=1&num=2002) (what to do when you see a new problem? "to get the solution, I need to ...", "to compute .., I need to track"...)
 - [Timus: Flat Spots](http://acm.timus.ru/problem.aspx?space=1&num=1617) (how to check things and their counts?)
 - Homework assignment 1: complete [Timus: Test Task] and [Timus: Flat Spots] if you haven't.
-- Homework assignment 2: [Timus: Another Dress Rehearsal](http://acm.timus.ru/problem.aspx?space=1&num=2035)
+- Homework assignment 2: [Timus: Another Dress Rehearsal](http://acm.timus.ru/problem.aspx?space=1&num=2035). 
 
 ## Week 40 (March 31 - April 6)
 - Number sense (algorithm -- time & space complexity)
