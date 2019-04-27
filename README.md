@@ -7,6 +7,11 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 43 (April 27 - May 3)
+- Recap: IUPC 2019
+- Exercise 1: Problem C Varacious Worm
+- Exercise 2: Program B Haulig Food -- silly way (exhaustive search) & smarter way
+
 ## Week 42 (April 14 - April 21)
 - Review: data type (int, float, double, string, char, bool); arrays (of any data type; indexing); strings (concatenate; check length; access letter in a specific position; conversion); loops (for and while loop); mathematical operations & functions (e.g., sort, pow); conversion (integer to string, to_string() function, 'a', 'b'-'a')
 - Floating point numbers (float/double) precision issue. When we have two integers a, b, if we need to check if they are the same, we simply use a == b; however, it is a bit complicated if you work with double, instead of using a==b, you use abs(a-b) < 1e-10 (or any very small number). Similarly for comparion such as a < b, you use a < b - 1e-10 instead.  
