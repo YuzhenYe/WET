@@ -10,7 +10,7 @@
 ## Week 43 (April 27 - May 3)
 - Recap: IUPC 2019
 - Exercise 1: Problem C Varacious Worm
-- Exercise 2: Program B Haulig Food -- silly way (exhaustive search) & smarter way
+- Exercise 2: Program B Hauling Food -- silly way (exhaustive search) & smarter way
 
 ## Week 42 (April 14 - April 21)
 - Review: data type (int, float, double, string, char, bool); arrays (of any data type; indexing); strings (concatenate; check length; access letter in a specific position; conversion); loops (for and while loop); mathematical operations & functions (e.g., sort, pow); conversion (integer to string, to_string() function, 'a', 'b'-'a')
