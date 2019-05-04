@@ -9,7 +9,7 @@
 ## 2019
 
 ## Week 44 (May 4 - May 10)
-- Check Hankerrank [Kangaroo Problem](https://www.hackerrank.com/challenges/kangaroo/problem). 
+- Check Hankerrank [Kangaroo Problem](https://www.hackerrank.com/challenges/kangaroo/problem) [see a solution](https://github.com/YuzhenYe/WET/blob/master/hackerrank/kangaroo.cpp). 
 - Exercise 1: [Hankerrank: Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 - Today's topic: Enumerate all, but in a smart way. 
 - Exercise 2: Susan has some money to invest on stocks. She bought and sold many stocks--sometimes she lost money and sometimes she gained. She keeps record of her earnings/losses (integers) from the selling of stocks she held. Can you help her calculate the the most money she earned in total, during a certain consecutive period of time (which would be her best time with respect to investment)? 
