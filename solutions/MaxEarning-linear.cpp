@@ -10,15 +10,15 @@ int main()
 		cin >> records[i];	
 	}
 	int answer = -1000000000;
-	int last = 0;
+	int add = 0;
 	for(int i = 0; i < n; i ++) { //i -- all possible end transaction
-		last += records[i];
-		if(last > answer) {
-			answer = last;
+		add += records[i];
+		if(add > answer) {
+			answer = add;
 		}
-		//by resetting last, no need explictly use a loop to try all possible start 
-		if(last < 0) {
-			last = 0;
+		//by resetting add to 0, no need to explictly use an extra loop to try all possible start 
+		if(add < 0) {
+			add = 0;
 		}
 	}
 	cout<<answer<<endl;
