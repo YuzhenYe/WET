@@ -12,7 +12,7 @@
 - Check Hankerrank [Kangaroo Problem](https://www.hackerrank.com/challenges/kangaroo/problem) [see a solution](https://github.com/YuzhenYe/WET/blob/master/hackerrank/kangaroo.cpp). 
 - Exercise 1: [Hankerrank: Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 - Today's topic: Enumerate all, but in a smart way. 
-- Exercise 2: Susan has some money to invest on stocks. She bought and sold many stocks--sometimes she lost money and sometimes she gained. She keeps record of her earnings/losses (integers) from the selling of stocks she held. Can you help her calculate the the most money she earned in total, during a certain consecutive period of time (which would be her best time with respect to investment)? 
+- Exercise 2: Susan has some money to invest on stocks. She bought and sold many stocks--sometimes she lost money and sometimes she gained. She keeps record of her earnings/losses (integers) from the selling of stocks she held. Can you help her calculate the the most money she earned in total for a consecutive row of transactions? 
 ```
 Input format:
 The first number shows the total number of records (n), followed by the actual losses (negative integers) and earnings (positive integers).
@@ -36,7 +36,7 @@ Susan earned a total of 300 (100 + 200) from the second and third sells.
 ```
 Summary: we see three different approaches (cubic, quadratic, and linear, respectively) to solving this problem! Make sure that you really understand the linear algorithm for this problem. 
 
-- Exercise 3: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1). Silly approach -- O(10^6) (everyone has implemented it using six nested loops; that's impressive!). Next week, we will try a smarter approach that's in cubic time complexity.
+- Exercise 3: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1). Silly approach -- O(10^6) (everyone has implemented it using six nested loops; that's impressive!). Next week, we will try a smarter approach that's in cubic time.
 
 
 ## Week 43 (April 27 - May 3)
