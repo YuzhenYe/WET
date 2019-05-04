@@ -10,8 +10,9 @@
 
 ## Week 44 (May 4 - May 10)
 - Check Hankerrank [Kangaroo Problem](https://www.hackerrank.com/challenges/kangaroo/problem). 
+- Exercise 1: [Hankerrank: Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 - Today's topic: Enumerate all, but in a smart way. 
-- Exercise 1: Susan has some money to invest on stocks. She bought and sold many stocks--sometimes she lost money and sometimes she gained. She keeps record of her earnings/losses (integers) from the selling of stocks she held. Can you help her calculate the the most money she earned in total, during a certain consecutive period of time (which would be her best time with respect to investment)? 
+- Exercise 2: Susan has some money to invest on stocks. She bought and sold many stocks--sometimes she lost money and sometimes she gained. She keeps record of her earnings/losses (integers) from the selling of stocks she held. Can you help her calculate the the most money she earned in total, during a certain consecutive period of time (which would be her best time with respect to investment)? 
 ```
 Input format:
 The first number shows the total number of records (n), followed by the actual losses (negative integers) and earnings (positive integers).
@@ -33,7 +34,7 @@ Sample output:
 Explanation:
 Susan earned a total of 300 (100 + 200) from the second and third sells. 
 ```
-- Exercise 2: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1)
+- Exercise 3: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1)
 
 ## Week 43 (April 27 - May 3)
 - Recap: IUPC 2019
