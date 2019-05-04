@@ -34,7 +34,10 @@ Sample output:
 Explanation:
 Susan earned a total of 300 (100 + 200) from the second and third sells. 
 ```
-- Exercise 3: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1)
+Summary: we see three different approaches (cubic, quadratic, and linear, respectively) to solving this problem! Make sure that you really understand the linear algorithm for this problem. 
+
+- Exercise 3: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1). Silly approach -- O(10^6) (everyone has implemented it using six nested loops; that's impressive!). Nex tweek, we will try a smarter approach that's in cubic time complexity.
+
 
 ## Week 43 (April 27 - May 3)
 - Recap: IUPC 2019
