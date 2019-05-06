@@ -37,6 +37,7 @@ Susan earned a total of 300 (100 + 200) from the second and third sells.
 Summary: we see three different approaches (cubic, quadratic, and linear, respectively) to solving this problem! Make sure that you really understand the linear algorithm for this problem. (see solutions: [cubic](https://github.com/YuzhenYe/WET/blob/master/solutions/MaxEarning-cubic.cpp); [quadratic](https://github.com/YuzhenYe/WET/blob/master/solutions/MaxEarning-quadratic.cpp); [linear](https://github.com/YuzhenYe/WET/blob/master/solutions/MaxEarning-linear.cpp)) 
 
 - Exercise 3: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1). Silly approach -- O(10^6) (everyone has implemented it using six nested loops; that's impressive!). Next week, we will try a smarter approach that's in cubic time.
+- Homework assignment: 1) [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem); 2) [Elecronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem); 3) [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem). [Note: please don't use the template provided on the website; start from scratch]
 
 
 ## Week 43 (April 27 - May 3)
