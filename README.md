@@ -11,6 +11,16 @@
 ## Week 45 (May 11 - May 17)
 - :cake: Exercise 1: [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 - :cake: Exercise 2: [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem); 
+- :new: memset(variable, value, sizeof(variable))
+```
+int n[1000];
+memset(n, 0, sizeof(n));
+```
+which is equivalent to
+```
+int n[1000];
+for(int i = 0; i < 1000; i ++) n[0] = 0;
+```
 - :pouting_cat: Exercise 3: [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem). [Note: please don't use the template provided on the website; start from scratch]
 - :pouting_cat: Exercise 4: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1); approach in cubic time.
 
