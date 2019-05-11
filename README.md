@@ -8,6 +8,12 @@
 
 ## 2019
 
+## Week 45 (May 11 - May 17)
+- :cake: Exercise 1: [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+- :cake: Exercise 2: [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem); 
+- :pouting_cat: Exercise 3: [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem). [Note: please don't use the template provided on the website; start from scratch]
+- :pouting_cat: Exercise 4: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1); approach in cubic time.
+
 ## Week 44 (May 4 - May 10)
 - Check Hankerrank [Kangaroo Problem](https://www.hackerrank.com/challenges/kangaroo/problem) ([see a solution](https://github.com/YuzhenYe/WET/blob/master/hackerrank/kangaroo.cpp)). 
 - Exercise 1: [Hankerrank: Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
