@@ -22,7 +22,7 @@ int n[1000];
 for(int i = 0; i < 1000; i ++) n[0] = 0;
 ```
 - :pouting_cat: Exercise 3: [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem). [Note: please don't use the template provided on the website; start from scratch]
-- :pouting_cat: Exercise 4: [IUPC Maximum Rectangle Sum](https://www.hackerrank.com/contests/sice-2019-programming-contest/challenges/rectangle-sum-1-1); approach in cubic time.
+- :+1: Homework assignments. 1) [Angry professor](https://www.hackerrank.com/challenges/angry-professor/problem); 2) [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem); 3) [Sherlock square](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) (hint: if you have int n = sqrt(5), n equals 2). 
 
 ## Week 44 (May 4 - May 10)
 - Check Hankerrank [Kangaroo Problem](https://www.hackerrank.com/challenges/kangaroo/problem) ([see a solution](https://github.com/YuzhenYe/WET/blob/master/hackerrank/kangaroo.cpp)). 
