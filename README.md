@@ -9,11 +9,11 @@
 ## 2019
 
 ## Summer break 2019
-- :sunglasses: Challenge yourself -- solve two problems (of your own choice) every day for 6 days a week. 
+- :sunglasses: Challenge yourself -- solve two problems (of your own choice on Timus or Hackerrank) every day for 6 days a week. 
 
 ## Week 46 (May 25 - June 2)
-- :cake: Exercise 1: Hankerank [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) 
-- :cake: Exercise 2: Hankerank [Apple & Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+- :cake: Exercise 1: Hackerrank [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) 
+- :cake: Exercise 2: Hackerrank [Apple & Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 - Review: memset(variable, value, sizeof(variable))
 - Review: sequential search & binary search; redo the Timus [History exam](http://acm.timus.ru/problem.aspx?space=1&num=1196)
 - :new: scanf(); e.g., scanf("%d", &a); scanf("%s", str);
