@@ -8,6 +8,18 @@
 
 ## 2019
 
+## Summer break 2019
+- ::sunglasses:: Challenge yourself -- solve two problems (of your own choice) every day for 6 days a week. 
+
+## Week 46 (May 25 - June 2)
+- :cake: Exercise 1: Hankerank [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) 
+- :cake: Exercise 2: Hankerank [Apple & Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+- Review: memset(variable, value, sizeof(variable))
+- Review: sequential search & binary search; redo the Timus [History exam](http://acm.timus.ru/problem.aspx?space=1&num=1196)
+- :new: scanf(); e.g., scanf("%d", &a); scanf("%s", str);
+- :new: graph & graph traversal & shortest path; Timus [Isenbaev's Number](http://acm.timus.ru/problem.aspx?space=1&num=1837) 
+
+
 ## Week 45 (May 11 - May 17)
 - :cake: Exercise 1: [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 - :cake: Exercise 2: [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem); 
