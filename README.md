@@ -10,6 +10,7 @@
 
 ## Week 47 (Aug 18 - )
 - Welcome back!
+- Warmup: [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 - Hackerrank: [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
 
 ## Summer break 2019
