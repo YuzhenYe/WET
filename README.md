@@ -12,6 +12,7 @@
 - Welcome back!
 - Warmup: [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem); [another one](https://www.hackerrank.com/mock1-1566097239)
 - Hackerrank: [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
+- :+1: Homework assignments: [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem); [Drawing book](https://www.hackerrank.com/challenges/drawing-book/problem)  
 
 ## Summer break 2019
 - :sunglasses: Challenge yourself -- solve two problems (of your own choice on Timus or Hackerrank) every day for 6 days a week. 
