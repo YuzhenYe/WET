@@ -8,6 +8,10 @@
 
 ## 2019
 
+## Week 47 (Aug 18 - )
+- Welcome back!
+- Hackerrank: [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
+
 ## Summer break 2019
 - :sunglasses: Challenge yourself -- solve two problems (of your own choice on Timus or Hackerrank) every day for 6 days a week. 
 
