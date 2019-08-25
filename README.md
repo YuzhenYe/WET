@@ -12,8 +12,8 @@
 - Review 1: [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
 - Review 2: recursion
 - [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
-- [Cut the sticsk](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
-- [Fibonacci Number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)
+- [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem). Try two stategies: 1) don't actually remove the items, using an indicator instead; 2) remove the elements from the arrays.
+- [Fibonacci Number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking). Also implement it using no recursion.
 
 ## Week 47 (Aug 18 - )
 - Welcome back!
