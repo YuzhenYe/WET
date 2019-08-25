@@ -8,6 +8,13 @@
 
 ## 2019
 
+## Week 48 (Aug 25 - )
+- Review 1: [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
+- Review 2: recursion
+- [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
+- [Cut the sticsk](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+- [Fibonacci Number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)
+
 ## Week 47 (Aug 18 - )
 - Welcome back!
 - Warmup: [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem); [another one](https://www.hackerrank.com/mock1-1566097239)
