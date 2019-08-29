@@ -14,6 +14,7 @@
 - [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
 - [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem). Try two stategies: 1) don't actually remove the items, using an indicator instead; 2) remove the elements from the arrays.
 - [Fibonacci Number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking). Also implement it using no recursion.
+- :+1: Homework assignments: [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem); [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem); [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) -- this is a great problem; thinking about what strategy you will use to solve this minimization problem!
 
 ## Week 47 (Aug 18 - )
 - Welcome back!
