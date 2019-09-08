@@ -9,9 +9,9 @@
 ## 2019
 
 ## Week 49 (Sep 8 - )
--Review: algorithms [greedy, divide & conquer, dynamic programming]; [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) (what's the agorithm?)
--[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?h_r=internal-search)
--[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_r=internal-search)
+- Review: algorithms [greedy, divide & conquer, dynamic programming]; [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) (what's the agorithm?)
+- [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?h_r=internal-search)
+- [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_r=internal-search)
 
 ## Week 48 (Aug 25 - )
 - Review 1: [arrays](https://github.com/YuzhenYe/WET/blob/master/basics/array.md)
