@@ -11,6 +11,7 @@
 ## Week 50 (Sep 15 -)
 - Review: array (one dimensional & two dimensional) 
 - [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
+- [Partition](https://www.hackerrank.com/challenges/quicksort1/problem?h_r=internal-search) -- divide and conquer algorithm
 
 ## Week 49 (Sep 8 - )
 - Review: algorithms [greedy, divide & conquer, dynamic programming]; [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) (what's the agorithm?)
