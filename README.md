@@ -8,6 +8,10 @@
 
 ## 2019
 
+## Week 50 (Sep 15 -)
+- Review: array (one dimensional & two dimensional) 
+- [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
+
 ## Week 49 (Sep 8 - )
 - Review: algorithms [greedy, divide & conquer, dynamic programming]; [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) (what's the agorithm?)
 - [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?h_r=internal-search)
