@@ -12,6 +12,7 @@
 - Review: array (one dimensional & two dimensional) 
 - [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
 - [Partition](https://www.hackerrank.com/challenges/quicksort1/problem?h_r=internal-search) -- divide and conquer algorithm
+- :+1: Homework assignments: <a href="https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a>; <a href="https://www.hackerrank.com/challenges/fair-rations/problem">Fair Rations</a>; <a href="https://www.hackerrank.com/challenges/manasa-and-stones/problem">Manasa and Stones</a>
 
 ## Week 49 (Sep 8 - )
 - Review: algorithms [greedy, divide & conquer, dynamic programming]; [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) (what's the agorithm?)
