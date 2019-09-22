@@ -8,6 +8,11 @@
 
 ## 2019
 
+## Week 50 (Sep 22 -)
+- Review: <a href="https://www.hackerrank.com/challenges/manasa-and-stones/problem">Manasa and Stones</a>
+- How to enumerate all possible combinations of number differences? [two stones, differences can be 2 or 3, then the combinations are [2,2],[2,3],[3,2],[3,3])
+- [Almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
+
 ## Week 50 (Sep 15 -)
 - Review: array (one dimensional & two dimensional) 
 - [Encryption](https://www.hackerrank.com/challenges/encryption/problem)
