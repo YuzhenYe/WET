@@ -12,6 +12,7 @@
 - Review: <a href="https://www.hackerrank.com/challenges/manasa-and-stones/problem">Manasa and Stones</a>
 - How to enumerate all possible combinations of number differences? [two stones, differences can be 2 or 3, then the combinations are [2,2],[2,3],[3,2],[3,3])
 - [Almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
+- :+1: Homework assignments: [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem); [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem); [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) 
 
 ## Week 50 (Sep 15 -)
 - Review: array (one dimensional & two dimensional) 
