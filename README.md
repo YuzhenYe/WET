@@ -8,6 +8,14 @@
 
 ## 2019
 
+## Week 52 (Sep 29- )
+- Review: [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
+- Warmup: [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
+- Review: [Struct](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md); redo the Sorting pokemon problem.
+- :new: Class (object oriented programming); similar to typedef struct; constructor (the function that has the same name as the class name, which will be called automatically when an object is created from a class); pointer
+- :new: Linked list (with one pointer pointing to the next), Binary tree (with two pointers, one pointing to the left and the other to the right).
+- Exercise: [Linked List](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) 
+
 ## Week 51 (Sep 22 -)
 - Review: <a href="https://www.hackerrank.com/challenges/manasa-and-stones/problem">Manasa and Stones</a>
 - How to enumerate all possible combinations of number differences? [two stones, differences can be 2 or 3, then the combinations are [2,2],[2,3],[3,2],[3,3])
