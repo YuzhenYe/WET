@@ -7,11 +7,14 @@
 # Weekly topics/assignments
 
 ## 2019
+## Week 54 (Oct 13 - )
+- [AIZU: Tree Walk](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_C)
+
 ## Week 53 (Oct 6 - )
 - :new: Linked list (with one pointer pointing to the next), Binary tree (with two pointers, one pointing to the left and the other to the right).
 - [Hackerrank: Linked List](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists) 
 - [AIZU: Binary Tree](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_B) 
-- [AIZU: Tree Walk](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_C)
+- [AIZU: Construction of a tree](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_D)
 
 ## Week 52 (Sep 29- )
 - Review: [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
