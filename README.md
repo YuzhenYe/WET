@@ -8,6 +8,12 @@
 
 ## 2019
 
+## Week 55 (Oct 20 - )
+- Warmup: [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)
+- (Review): [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem); [Height of a tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) 
+- Review: Tree Walk (preorder, inorder, postorder)
+- [AIZU: Reconstruction of a tree](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_D)
+
 ## Week 54 (Oct 13 - )
 - [AIZU: Tree Walk](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_C)
 - :+1: Homework assignments: [Insert a node at the head of a linked list ](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem); [Insert a node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem); [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem); [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem); [Height of a tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) (note: in the Hackerrank template code, a class Node is used instead of a struct).   
