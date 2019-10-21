@@ -11,7 +11,7 @@
 ## Week 55 (Oct 20 - )
 - Warmup: [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)
 - [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem); [Height of a tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) 
-- :+1: Homework assignment 1: [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem); Hints: 1) check out the constraint of the list size; 2) use a variable to check how many nodes have been visited by following the links. 
+- :+1: Homework assignment 1: [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem); Hints: 1) check out the constraint of the list size; 2) use a variable to check how many nodes have been visited when following the pointers. 
 - :+1: Homework assignment 2: [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) Hints: the two lists may be of different sizes; walk through the longer list first until it has the same number of nodes as the shorter one; then comparing nodes in the two lists to find the same will become easier.
 
 ## Week 54 (Oct 13 - )
