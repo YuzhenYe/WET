@@ -8,6 +8,10 @@
 
 ## 2019
 
+## Week 56 (Oct 27 - )
+- Test: tree traversal
+- BST (Binary Search Tree). [AIZU: BST: insert](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_A)
+
 ## Week 55 (Oct 20 - )
 - Warmup: [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)
 - [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem); [Height of a tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) 
