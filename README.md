@@ -10,6 +10,7 @@
 
 ## Week 56 (Oct 27 - )
 - Test: tree traversal
+- Warmup: [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)
 - BST (Binary Search Tree). [AIZU: BST: insert](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_A)
 
 ## Week 55 (Oct 20 - )
