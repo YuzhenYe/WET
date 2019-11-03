@@ -8,6 +8,11 @@
 
 ## 2019
 
+## Week 57 (Nov 3 - )
+- Review: [BST-I](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_A) (insertion with or without using recursion)
+- [BST-II](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_B)
+- [Timus: Tears of Drowned](http://acm.timus.ru/problem.aspx?space=1&num=1935)
+
 ## Week 56 (Oct 27 - )
 - Test: tree traversal
 - Warmup: [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)
