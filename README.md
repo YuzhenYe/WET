@@ -12,6 +12,8 @@
 - Review: [BST-I](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_A) (insertion with or without using recursion)
 - [BST-II](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_B)
 - [Timus: Tears of Drowned](http://acm.timus.ru/problem.aspx?space=1&num=1935)
+- :+1: Homework assignment 1. [Timus - Democracy in Danger](http://acm.timus.ru/problem.aspx?space=1&num=1025)
+- :+1: Homework assignment 2. [Hackerrank - Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees) 
 
 ## Week 56 (Oct 27 - )
 - Test: tree traversal
