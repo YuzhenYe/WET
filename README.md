@@ -11,8 +11,10 @@
 ## Week 58 (Nov 10 - )
 - Review: BST (insert & find)
 - [Timus: City Blocks](http://acm.timus.ru/problem.aspx?space=1&num=1139)
-- Starting this weeek, we will review & redo some of the USACO problems that you have worked on. For this week, let's reivew section 1.2. Go to [USACO training site](https://train.usaco.org/).
-- [BST-III](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_C)
+- :+1: Homework assignment 1. Review & redo some of the USACO problems (section 1.2](https://train.usaco.org/): [Your ride is here](https://train.usaco.org/usacoprob2?a=2N8NLOj8741&S=ride) & [Greedy gift giver](https://train.usaco.org/usacoprob2?a=2N8NLOj8741&S=gift1), and you are welcome to do more!
+- :+1: Homework assignment 2. [Timus: Sabotage](http://acm.timus.ru/problem.aspx?space=1&num=1290)
+- :+1: Homework assignment 3. [AIZU: Greatest Common Divisor](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_B) 
+	[recursion: gcd(x, y) = gcd(y, x % y); what's the base case in the recursion?] 
 
 ## Week 57 (Nov 3 - )
 - Review: [BST-I](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_A) (insertion with or without using recursion)
