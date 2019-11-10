@@ -8,6 +8,12 @@
 
 ## 2019
 
+## Week 58 (Nov 10 - )
+- Review: BST (insert & find)
+- [Timus: City Blocks](http://acm.timus.ru/problem.aspx?space=1&num=1139)
+- Starting this weeek, we will review & redo some of the USACO problems that you have worked on. For this week, let's reivew section 1.2. Go to [USACO training site](https://train.usaco.org/).
+- [BST-III](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_C)
+
 ## Week 57 (Nov 3 - )
 - Review: [BST-I](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_A) (insertion with or without using recursion)
 - [BST-II](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_B)
