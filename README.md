@@ -12,7 +12,7 @@
 - Review: BST (insert & find)
 - [Timus: City Blocks](http://acm.timus.ru/problem.aspx?space=1&num=1139)
 - :+1: Homework assignment 1. Review & redo some of the USACO problems (section 1.2](https://train.usaco.org/): [Your ride is here](https://train.usaco.org/usacoprob2?a=2N8NLOj8741&S=ride) & [Greedy gift giver](https://train.usaco.org/usacoprob2?a=2N8NLOj8741&S=gift1), and you are welcome to do more!
-- :+1: Homework assignment 2. [Timus: Sabotage](http://acm.timus.ru/problem.aspx?space=1&num=1290)
+- :+1: Homework assignment 2. [Timus: Metro](http://acm.timus.ru/problem.aspx?space=1&num=1119)
 - :+1: Homework assignment 3. [AIZU: Greatest Common Divisor](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_1_B) 
 	[recursion: gcd(x, y) = gcd(y, x % y); what's the base case in the recursion?] 
 
