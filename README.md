@@ -1,13 +1,18 @@
 # Resouces for WET gang
 ## Main resources
   1) [C++ online tutorial](http://www.cplusplus.com/doc/tutorial/); [Game Programming in C++](http://www.jblearning.com/catalog/9781598220322/); [C++ STL](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-  2) [USA Computing Olympiad website](http://www.usaco.org); [AIZU](http://judge.u-aizu.ac.jp/onlinejudge/); [Timus](http://acm.timus.ru).
+  2) [USA Computing Olympiad website](http://www.usaco.org); [AIZU](http://judge.u-aizu.ac.jp/onlinejudge/); [Timus](http://acm.timus.ru). [Programming Contest Problem Types](https://train.usaco.org/usacotext2?a=MMSMkrYtiYP&S=probs)
 ## [Goals](https://github.com/YuzhenYe/WET/blob/master/assessments/goals.md)
 
 # Weekly topics/assignments
 
 ## 2019
 
+## Week 59 (Nov 17 - )
+- Review: [how to track a person's money](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md) (using two arrays one for names and one for money, or struct)? which person (finding index)? how to work with files (when to stop)? (week 22) 
+- [Timus: Metro](http://acm.timus.ru/problem.aspx?space=1&num=1119)
+- [USACO: Friday the thirteenth](https://train.usaco.org/usacoprob2?a=bhWVOBjdaVI&S=friday)
+	
 ## Week 58 (Nov 10 - )
 - Review: BST (insert & find)
 - [Timus: City Blocks](http://acm.timus.ru/problem.aspx?space=1&num=1139)
