@@ -8,6 +8,13 @@
 
 ## 2019
 
+## Week 60 (Dec 15 - )
+- Read: [USACO: Complete Search](https://train.usaco.org/usacotext2?a=o1H7Q7oRU1b&S=comp)
+- [USACO: Broken necklace](https://train.usaco.org/usacoprob2?a=o1H7Q7oRU1b&S=beads)
+- [USACO: Milking cows](https://train.usaco.org/usacoprob2?a=o1H7Q7oRU1b&S=milk2)
+- [Timus: Copying](https://acm.timus.ru/problem.aspx?space=1&num=1131)
+- [Timus: Hamming code](https://acm.timus.ru/problem.aspx?space=1&num=1792)
+
 ## Week 59 (Nov 17 - )
 - Review: [how to track a person's money](https://github.com/YuzhenYe/WET/blob/master/basics/struct.md) (using two arrays one for names and one for money, or struct)? which person (finding index)? how to work with files (when to stop)? (week 22) 
 - [Timus: Metro](http://acm.timus.ru/problem.aspx?space=1&num=1119)
