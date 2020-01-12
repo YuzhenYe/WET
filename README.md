@@ -11,7 +11,7 @@
 - Warmup: [Timus: Taxi for Programmers](https://acm.timus.ru/problem.aspx?space=1&num=2005) 
 - [USACO: Milking cows](https://train.usaco.org/usacoprob2?a=o1H7Q7oRU1b&S=milk2)
 - Homework assignment 1 [Timus: Hamming code](https://acm.timus.ru/problem.aspx?space=1&num=1792)
-- Homework assignment 2 [Times: Cipher Grille](https://acm.timus.ru/problem.aspx?space=1&num=1712). Hint: a) when a table is turned 90 degrees clockwise, a cell in row r and column c (r, c) becomes which cell in the rotated table). b) To store a window/ciphered message, one can use 2D-arrays of characters or simply a string (essentially 1D array of characters). One may find one is more convenient/straightforward than the other. It is always possible to convert between 2D table and 1D array. E.g., a 4x4 table can be represented as a 1D array of 16 items, so the item (r, c) in the 2D table is stored in the 1D array at slot 4 * r + c. 
+- Homework assignment 2 [Times: Cipher Grille](https://acm.timus.ru/problem.aspx?space=1&num=1712). Hint: a) when a table is turned 90 degrees clockwise, a cell in row r and column c (r, c) in the original table is found in a different location in the rotated table; which one?. b) To store a window/ciphered message, one can use 2D-arrays of characters or simply a string (essentially 1D array of characters). One may find one is more convenient/straightforward than the other. It is always possible to convert between 2D table and 1D array. E.g., a 4x4 table can be represented as a 1D array of 16 items, so the item (r, c) in the 2D table is stored in the 1D array at slot 4 * r + c. 
 
 ## 2019
 
