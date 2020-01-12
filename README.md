@@ -6,6 +6,13 @@
 
 # Weekly topics/assignments
 
+## 2020
+## Week 61 (Jan 12 - )
+- Warmup: [Timus: Taxi for Programmers](https://acm.timus.ru/problem.aspx?space=1&num=2005) 
+- [USACO: Milking cows](https://train.usaco.org/usacoprob2?a=o1H7Q7oRU1b&S=milk2)
+- [Timus: Hamming code](https://acm.timus.ru/problem.aspx?space=1&num=1792)
+- [Timus: Two teams](https://acm.timus.ru/problem.aspx?space=1&num=1106)
+
 ## 2019
 
 ## Week 60 (Dec 15 - )
