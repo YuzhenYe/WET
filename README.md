@@ -7,6 +7,13 @@
 # Weekly topics/assignments
 
 ## 2020
+## Week 62 (Jan 19 - )
+- Review: Hamming code & Cipher Grille (2D-array)
+- [USACO: Name that Number](https://train.usaco.org/usacoprob2?a=hGp3PNvhHpn&S=namenum)
+- [Timus: Sabotage](https://acm.timus.ru/problem.aspx?space=1&num=1290)
+- [Timus: Two Teams](https://acm.timus.ru/problem.aspx?space=1&num=1106)
+- Homework assignment 1: [USACO: Transformation](https://train.usaco.org/usacoprob2?a=hGp3PNvhHpn&S=transform)
+
 ## Week 61 (Jan 12 - )
 - Warmup: [Timus: Taxi for Programmers](https://acm.timus.ru/problem.aspx?space=1&num=2005) 
 - [USACO: Milking cows](https://train.usaco.org/usacoprob2?a=o1H7Q7oRU1b&S=milk2)
