@@ -13,6 +13,7 @@
 - [Timus: Sabotage](https://acm.timus.ru/problem.aspx?space=1&num=1290)
 - [Timus: Two Teams](https://acm.timus.ru/problem.aspx?space=1&num=1106)
 - Homework assignment 1: [USACO: Transformation](https://train.usaco.org/usacoprob2?a=hGp3PNvhHpn&S=transform)
+- Homework assignment 2: [Timus: Easy to Hack!](https://acm.timus.ru/problem.aspx?space=1&num=1404)
 
 ## Week 61 (Jan 12 - )
 - Warmup: [Timus: Taxi for Programmers](https://acm.timus.ru/problem.aspx?space=1&num=2005) 
