@@ -7,6 +7,11 @@
 # Weekly topics/assignments
 
 ## 2020
+## Week 63 (Jan 26 - )
+- [Timus: Game of Nuts](https://acm.timus.ru/problem.aspx?space=1&num=2068)
+- [Timus: Plato](https://acm.timus.ru/problem.aspx?space=1&num=2111) (Review: [Timus: Maximum sum](https://acm.timus.ru/problem.aspx?space=1&num=1146)) 
+- [USACO: Palindromic squares](https://train.usaco.org/usacoprob2?a=nFgflsai7xN&S=palsquare) 
+
 ## Week 62 (Jan 19 - )
 - Review: Hamming code & Cipher Grille (2D-array)
 - [USACO: Name that Number](https://train.usaco.org/usacoprob2?a=hGp3PNvhHpn&S=namenum)
