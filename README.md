@@ -8,6 +8,13 @@
 
 ## 2020
 
+## Week 64 (Feb 1 - )
+- Tests
+- [Timus: line fighting](https://acm.timus.ru/problem.aspx?space=1&num=2025)
+- [Review: Complete Search](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=comp) (in a smart way!)
+- [Read: Greedy algorithm](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=greedy)
+- [[USACO: Milking cows](https://train.usaco.org/usacoprob2?a=r3Zz4UDsW7s&S=milk2)
+
 ## Week 63 (Jan 26 - )
 - [Timus: Game of Nuts](https://acm.timus.ru/problem.aspx?space=1&num=2068)
 - [Timus: Plato](https://acm.timus.ru/problem.aspx?space=1&num=2111) (Review: [Timus: Maximum sum](https://acm.timus.ru/problem.aspx?space=1&num=1146)) 
