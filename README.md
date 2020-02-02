@@ -13,7 +13,14 @@
 - [Timus: line fighting](https://acm.timus.ru/problem.aspx?space=1&num=2025)
 - HW1: [Read 1: Complete Search](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=comp); [Read 2: Greedy algorithm](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=greedy)
 - HW2: [USACO: Mixing milk](https://train.usaco.org/usacoprob2?a=3DY1qbK5GlQ&S=milk)
-- HW3: [Timus: Stripies](https://acm.timus.ru/problem.aspx?space=1&num=1161); how to set two precision (two decimal digits after the point)? set include an extra header file, #include <iomanip>, then call cout<<fixed<<setprecision(2)<<num; 
+- HW3: [Timus: Stripies](https://acm.timus.ru/problem.aspx?space=1&num=1161); how to set two precision (two decimal digits after the point)? 
+```
+//set include an extra header file, 
+#include <iomanip>
+//then call something like the following
+double num = 1.0;
+cout<<fixed<<setprecision(2)<<num; 
+```
 - Extra: [Timus: Sorting Hats](https://acm.timus.ru/problem.aspx?space=1&num=1446); [Timus: Don't ask a woman about her age](https://acm.timus.ru/problem.aspx?space=1&num=1104) 
  
 
