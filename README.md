@@ -8,6 +8,13 @@
 
 ## 2020
 
+## Week 65 (Feb 8 - )
+- Tests
+- [Timues: Magician](https://acm.timus.ru/problem.aspx?space=1&num=1370)  
+- [Timues: Hyperjump](https://acm.timus.ru/problem.aspx?space=1&num=1296)  
+- [Timues: K-based Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1009)
+- [USACO: PROB Barn Repair](https://train.usaco.org/usacoprob2?a=ppkQtoZx5Ml&S=barn1)
+
 ## Week 64 (Feb 1 - )
 - Tests
 - [Timus: line fighting](https://acm.timus.ru/problem.aspx?space=1&num=2025)
