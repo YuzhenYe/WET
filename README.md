@@ -12,8 +12,9 @@
 - Tests
 - [Timues: Magician](https://acm.timus.ru/problem.aspx?space=1&num=1370)  
 - [Timues: Hyperjump](https://acm.timus.ru/problem.aspx?space=1&num=1296)  
-- [Timues: K-based Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1009)
-- [USACO: PROB Barn Repair](https://train.usaco.org/usacoprob2?a=ppkQtoZx5Ml&S=barn1)
+- HW1: [Timues: K-based Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1009)
+- HW2: [USACO: PROB Barn Repair](https://train.usaco.org/usacoprob2?a=ppkQtoZx5Ml&S=barn1)
+- Extra: [Timus: A Whole Lot of Walnuts](https://acm.timus.ru/problem.aspx?space=1&num=1644); [Timus: The Debut Album](https://acm.timus.ru/problem.aspx?space=1&num=2018)
 
 ## Week 64 (Feb 1 - )
 - Tests
