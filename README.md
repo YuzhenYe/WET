@@ -12,7 +12,7 @@
 - [Timus: Devices](https://acm.timus.ru/problem.aspx?space=1&num=2033)
 - [Timus: Digits](https://acm.timus.ru/problem.aspx?space=1&num=1014)
 - [Timus: Parliament](https://acm.timus.ru/problem.aspx?space=1&num=1136)
-- [Timus: Amusement park](https://acm.timus.ru/problem.aspx?space=1&num=2010)
+- [Timus: Amusement park](https://acm.timus.ru/problem.aspx?space=1&num=2886)
 - [USACO: Prime Cryptarithm](https://train.usaco.org/usacoprob2?a=Hn6eMhmccRE&S=crypt1)
 - HW1: [Timus: Dill](https://acm.timus.ru/problem.aspx?space=1&num=1731)
 
