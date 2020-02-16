@@ -8,6 +8,14 @@
 
 ## 2020
 
+## Week 66 (Feb 15 - )
+- [Timus: Devices](https://acm.timus.ru/problem.aspx?space=1&num=2033)
+- [Timus: Digits](https://acm.timus.ru/problem.aspx?space=1&num=1014)
+- [Timus: Parliament](https://acm.timus.ru/problem.aspx?space=1&num=1136)
+- [Timus: Amusement park](https://acm.timus.ru/problem.aspx?space=1&num=2010)
+- [USACO: Prime Cryptarithm](https://train.usaco.org/usacoprob2?a=Hn6eMhmccRE&S=crypt1)
+- HW1: [Timus: Dill](https://acm.timus.ru/problem.aspx?space=1&num=1731)
+
 ## Week 65 (Feb 8 - )
 - Tests
 - [Timues: Magician](https://acm.timus.ru/problem.aspx?space=1&num=1370)  
