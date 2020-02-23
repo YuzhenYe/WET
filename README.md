@@ -8,6 +8,11 @@
 
 ## 2020
 
+## Week 67 (Feb 23 - )
+- [Timus: Sandro's Biography](https://acm.timus.ru/problem.aspx?space=1&num=1786)
+- [Timus: Neo-Venice](https://acm.timus.ru/problem.aspx?space=1&num=1902)
+- [USACO: Combination Lock](https://train.usaco.org/usacoprob2?a=4iNs2eB5GKJ&S=combo)
+
 ## Week 66 (Feb 15 - )
 - [Timus: Devices](https://acm.timus.ru/problem.aspx?space=1&num=2033)
 - [Timus: Digits](https://acm.timus.ru/problem.aspx?space=1&num=1014)
