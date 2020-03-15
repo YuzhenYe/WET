@@ -1,0 +1,42 @@
+#include <iostream>
+using namespace::std;
+
+typedef struct
+{
+	int id;
+	int ftot;
+	int flist[100];
+} friends;
+
+int cmp(friends a, friends b)
+{
+	return a.ftot < b.ftot;
+}
+
+int main()
+{
+	int n;
+	friends f[100];
+	cin >> n;
+	for(i = 0; i < n; i ++) {
+		f[i].id = i;
+		f[i].ftot = 0;
+	}
+	for(i = 0; i < n; i ++) {
+		while(1) {
+			cin >> t;
+			if(t == 0) break;
+			friends[i].flist[friends[i].ftot]] = t;
+			friends[i].ftot ++;
+			friends[t - 1].flist[friends[t - 1].ftot]] = t;
+			friends[t - 1].ftot ++;
+		}
+	}
+	qsort(friends, friends + n, cmp);
+	if(friends[0].ftot == 0) {
+		cout>>0>>endl;
+		return;
+	}
+	int assigned[100];
+	for(i = 0; i < n; i ++) assigned[i] = -1;
+}

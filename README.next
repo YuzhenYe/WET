@@ -7,48 +7,13 @@
 # Weekly topics/assignments
 
 ## 2020
-## Week 68 (March 15 - )
-- [USACO: Ski Course Design](https://train.usaco.org/usacoprob2?a=BRmjTlM5TL2&S=skidesign) (complete search; try all possible low heights)
-- [Timus: Ball in a dream](https://acm.timus.ru/problem.aspx?space=1&num=1192)
-- [Timues: Rope](https://acm.timus.ru/problem.aspx?space=1&num=1020)
-- [Timues: Sasha the Young Grandmaster](https://acm.timus.ru/problem.aspx?space=1&num=2010)
-
-## Week 67 (Feb 23 - )
-- [Timus: Sandro's Biography](https://acm.timus.ru/problem.aspx?space=1&num=1786)
-- HW1: [Timus: Neo-Venice](https://acm.timus.ru/problem.aspx?space=1&num=1902)
-- HW2: [USACO: Combination Lock](https://train.usaco.org/usacoprob2?a=4iNs2eB5GKJ&S=combo)
-
-## Week 66 (Feb 15 - )
-- [Timus: Devices](https://acm.timus.ru/problem.aspx?space=1&num=2033)
-- [Timus: Digits](https://acm.timus.ru/problem.aspx?space=1&num=1014)
-- HW1: [Timus: Parliament](https://acm.timus.ru/problem.aspx?space=1&num=1136)
-- HW2: [Timus: Amusement park](https://acm.timus.ru/problem.aspx?space=1&num=1796)
-- Extra 1: [USACO: Prime Cryptarithm](https://train.usaco.org/usacoprob2?a=Hn6eMhmccRE&S=crypt1)
-- Extra 2: [Timus: Dill](https://acm.timus.ru/problem.aspx?space=1&num=1731)
-
-## Week 65 (Feb 8 - )
-- Tests
-- [Timues: Magician](https://acm.timus.ru/problem.aspx?space=1&num=1370)  
-- [Timues: Hyperjump](https://acm.timus.ru/problem.aspx?space=1&num=1296)  
-- HW1: [Timues: K-based Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1009)
-- HW2: [USACO: PROB Barn Repair](https://train.usaco.org/usacoprob2?a=ppkQtoZx5Ml&S=barn1)
-- Extra: [Timus: A Whole Lot of Walnuts](https://acm.timus.ru/problem.aspx?space=1&num=1644); [Timus: The Debut Album](https://acm.timus.ru/problem.aspx?space=1&num=2018)
 
 ## Week 64 (Feb 1 - )
 - Tests
 - [Timus: line fighting](https://acm.timus.ru/problem.aspx?space=1&num=2025)
-- HW1: [Read 1: Complete Search](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=comp); [Read 2: Greedy algorithm](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=greedy)
-- HW2: [USACO: Mixing milk](https://train.usaco.org/usacoprob2?a=3DY1qbK5GlQ&S=milk)
-- HW3: [Timus: Stripies](https://acm.timus.ru/problem.aspx?space=1&num=1161); how to set two precision (two decimal digits after the point)? 
-```
-//set include an extra header file, 
-#include <iomanip>
-//then call something like the following
-double num = 1.0;
-cout<<fixed<<setprecision(2)<<num; 
-```
-- Extra: [Timus: Sorting Hats](https://acm.timus.ru/problem.aspx?space=1&num=1446); [Timus: Don't ask a woman about her age](https://acm.timus.ru/problem.aspx?space=1&num=1104) 
- 
+- [Review: Complete Search](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=comp) (in a smart way!)
+- [Read: Greedy algorithm](https://train.usaco.org/usacotext2?a=r3Zz4UDsW7s&S=greedy)
+- [[USACO: Milking cows](https://train.usaco.org/usacoprob2?a=r3Zz4UDsW7s&S=milk2)
 
 ## Week 63 (Jan 26 - )
 - [Timus: Game of Nuts](https://acm.timus.ru/problem.aspx?space=1&num=2068)
