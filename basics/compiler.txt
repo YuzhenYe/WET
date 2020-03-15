@@ -1,5 +1,0 @@
-Quite start:
-Use vim to edit a code and name it as *.cpp;
-Use g++ to compile: g++ -o name source-codes
-
-see more about g++ at https://www.cs.bu.edu/fac/gkollios/cs113/Usingg++.html 
