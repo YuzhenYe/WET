@@ -10,8 +10,8 @@
 ## Week 68 (March 15 - )
 - [USACO: Ski Course Design](https://train.usaco.org/usacoprob2?a=BRmjTlM5TL2&S=skidesign) (complete search; try all possible low heights)
 - [Timus: Ball in a dream](https://acm.timus.ru/problem.aspx?space=1&num=1192)
-- [Timues: Rope](https://acm.timus.ru/problem.aspx?space=1&num=1020)
-- [Timues: Sasha the Young Grandmaster](https://acm.timus.ru/problem.aspx?space=1&num=2010)
+- [Timus: Rope](https://acm.timus.ru/problem.aspx?space=1&num=1020)
+- [Timus: Sasha the Young Grandmaster](https://acm.timus.ru/problem.aspx?space=1&num=2010)
 
 ## Week 67 (Feb 23 - )
 - [Timus: Sandro's Biography](https://acm.timus.ru/problem.aspx?space=1&num=1786)
