@@ -12,6 +12,7 @@
 - [Timus: Ball in a dream](https://acm.timus.ru/problem.aspx?space=1&num=1192)
 - [Timus: Rope](https://acm.timus.ru/problem.aspx?space=1&num=1020)
 - [Timus: Sasha the Young Grandmaster](https://acm.timus.ru/problem.aspx?space=1&num=2010)
+- Coronavisus sequence comparison; write a program to compute the edit distances between sequences. [Get the sequences](https://github.com/YuzhenYe/WET/blob/master/files/covid-10.txt)
 
 ## Week 67 (Feb 23 - )
 - [Timus: Sandro's Biography](https://acm.timus.ru/problem.aspx?space=1&num=1786)
