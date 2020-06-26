@@ -10,6 +10,8 @@
 ## Week 69 (June 23 - )
 - Warmup exercise: write a program that takes in an integer as the input, and outputs prime if the input number is a prime number, otherwise output no. 
 - [Timus: The Good, the Bad and the Ugly](https://acm.timus.ru/problem.aspx?space=1&num=2138) [Review: how to convert a number in different base? For example, 10 in base 2 is 1010; 21 in base 11 (A for 10, B for 11) is ?]
+- [Timus: This cheese burger you don't need](https://acm.timus.ru/problem.aspx?space=1&num=1993)
+- [AIZU: Prime Factorize](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A)
 - [Timus: Michael and Cryptography](https://acm.timus.ru/problem.aspx?space=1&num=2102)
 
 ## Week 68 (March 15 - )
