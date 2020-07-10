@@ -7,9 +7,15 @@
 # Weekly topics/assignments
 
 ## 2020
+## Week 71 (July 8 - )
+- [Timus: The Knowledge Day](https://acm.timus.ru/problem.aspx?space=1&num=2115)
+- [Timus: Chinese Dialects](https://acm.timus.ru/problem.aspx?space=1&num=1964)  
+- [Timus: Sold Out](https://acm.timus.ru/problem.aspx?space=1&num=1725)
+- [Timus: Hard Rock](https://acm.timus.ru/problem.aspx?space=1&num=2069)
+
 ## Week 70 (July 1 - )
 - [Timus: Intervals](https://acm.timus.ru/problem.aspx?space=1&num=1330)
-- [Timus: Magic](https://acm.timus.ru/problem.aspx?space=1&num=2142)
+- [Timus: Magic](https://acm.timus.ru/problem.aspx?space=1&num=2142) (use long long!)
 - [Timus: Pigeonhole Principle](https://acm.timus.ru/problem.aspx?space=1&num=2149)
 - [AIZU: Power](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B) ([video](https://www.youtube.com/watch?v=1SFh0LgAJVM))
 
