@@ -7,11 +7,13 @@
 # Weekly topics/assignments
 
 ## 2020
+## Week 72 (July 14-)
+- [Timus: Sold Out](https://acm.timus.ru/problem.aspx?space=1&num=1725)
+- [Timus: Hard Rock](https://acm.timus.ru/problem.aspx?space=1&num=2069)
+
 ## Week 71 (July 8 - )
 - [Timus: The Knowledge Day](https://acm.timus.ru/problem.aspx?space=1&num=2115)
 - [Timus: Chinese Dialects](https://acm.timus.ru/problem.aspx?space=1&num=1964)  
-- [Timus: Sold Out](https://acm.timus.ru/problem.aspx?space=1&num=1725)
-- We will do this one next week: [Timus: Hard Rock](https://acm.timus.ru/problem.aspx?space=1&num=2069)
 
 ## Week 70 (July 1 - )
 - [Timus: Intervals](https://acm.timus.ru/problem.aspx?space=1&num=1330)
