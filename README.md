@@ -10,7 +10,8 @@
 ## Week 72 (July 14-)
 - [Timus: Sold Out](https://acm.timus.ru/problem.aspx?space=1&num=1725)
 - [Timus: Hard Rock](https://acm.timus.ru/problem.aspx?space=1&num=2069)
-- [Timus: Ivan's car](https://acm.timus.ru/problem.aspx?space=1&num=1930)
+- [Timus: Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930)
+- [Timus: On the Benefits of Umbrellas](https://acm.timus.ru/problem.aspx?space=1&num=1788)
 
 ## Week 71 (July 8 - )
 - [Timus: The Knowledge Day](https://acm.timus.ru/problem.aspx?space=1&num=2115)
