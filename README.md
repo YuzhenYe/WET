@@ -8,7 +8,7 @@
 
 ## 2020
 ## Week 73 (July 21-)
-- Working with queue (first in first out) and stack (first in last out).
+- Working with list, queue (first in first out) and stack (first in last out). [see a demo](https://github.com/YuzhenYe/WET/blob/master/hackerrank/listdemo.cpp)
 - Working with graphs. Graph representation: edge list, adjacency matrix, adjacency list; directed vs undirected; weighted vs unweighted; graph traversal (BFS, DFS); use queue for BFS
 - [HackerRank: Breadth First Search Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)]
 - [Timus: Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930)
