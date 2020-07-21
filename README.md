@@ -7,10 +7,15 @@
 # Weekly topics/assignments
 
 ## 2020
+## Week 73 (July 21-)
+- Working with queue (first in first out) and stack (first in last out).
+- Working with graphs. Graph representation: edge list, adjacency matrix, adjacency list; directed vs undirected; weighted vs unweighted; graph traversal (BFS, DFS); use queue for BFS
+- [HackerRank: Breadth First Search Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach/problem)]
+- [Timus: Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930)
+
 ## Week 72 (July 14-)
 - [Timus: Sold Out](https://acm.timus.ru/problem.aspx?space=1&num=1725)
 - [Timus: Hard Rock](https://acm.timus.ru/problem.aspx?space=1&num=2069)
-- [Timus: Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930)
 - [Timus: On the Benefits of Umbrellas](https://acm.timus.ru/problem.aspx?space=1&num=1788)
 
 ## Week 71 (July 8 - )
