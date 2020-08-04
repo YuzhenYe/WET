@@ -9,7 +9,7 @@
 ## 2020
 ## Week 74 (Aug 4-)
 - Code on a piece of paper (last time's problem about shortest reach)
-- [HackerRank: Journal to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
+- [HackerRank: Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
 
 ## Week 73 (July 21-)
 - Working with list, queue (first in first out) and stack (first in last out). [see a demo](https://github.com/YuzhenYe/WET/blob/master/hackerrank/listdemo.cpp)
