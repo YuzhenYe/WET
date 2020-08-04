@@ -7,6 +7,10 @@
 # Weekly topics/assignments
 
 ## 2020
+## Week 74 (Aug 4-)
+- Code on a piece of paper (last time's problem about shortest reach)
+- [HackerRank: Journal to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)
+
 ## Week 73 (July 21-)
 - Working with list, queue (first in first out) and stack (first in last out). [see a demo](https://github.com/YuzhenYe/WET/blob/master/hackerrank/listdemo.cpp)
 - Working with graphs. Graph representation: edge list, adjacency matrix, adjacency list; directed vs undirected; weighted vs unweighted; graph traversal (BFS, DFS); use queue for BFS
