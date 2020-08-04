@@ -10,9 +10,9 @@
 ## Week 74 (Aug 4-)
 - Code on a piece of paper (last time's problem about shortest reach)
 - [HackerRank: Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) (BFS based solution)
-- Reading: Disjoint-set/union-find data structure](http://homes.sice.indiana.edu/yye/c343-2019/unionfind.php)
+- [Reading: Disjoint-set/union-find data structure](http://homes.sice.indiana.edu/yye/c343-2019/unionfind.php)
 - [AIZU: Connected Network/Social Network](http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_D) 
-- [HackerRank: Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) (/Disjoint-set/Union-find/parent-only-tree based solution)
+- [HackerRank: Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) (Disjoint-set/Union-find/parent-only-tree based solution)
 
 ## Week 73 (July 21-)
 - Working with list, queue (first in first out) and stack (first in last out). [see a demo](https://github.com/YuzhenYe/WET/blob/master/hackerrank/listdemo.cpp)
